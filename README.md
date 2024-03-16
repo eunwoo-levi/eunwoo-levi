@@ -7,3 +7,5 @@
 - 💬 Republic of KOREA
 - 📫 eunwoo1341@gmail.com
 - ⚡ worked as Korean Augmentation To the United States Army, KATUSA from Sep 6th 21 to Mar 5th 23
+
+velog : https://velog.io/@eunwoo1341/posts
