@@ -9,3 +9,7 @@
 - ⚡ worked as Korean Augmentation To the United States Army, KATUSA from Sep 6th 21 to Mar 5th 23
 
 velog : https://velog.io/@eunwoo1341/posts
+
+
+
+![eunwoo-levi's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunwoo-levi&show_icons=true&theme=radical)
