@@ -12,4 +12,16 @@ velog : https://velog.io/@eunwoo1341/posts
 
 
 
+
+
+
+
+
+
+
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=eunwoo1341)](https://solved.ac/eunwoo1341)
+
+
 ![eunwoo-levi's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunwoo-levi&show_icons=true&theme=radical)
