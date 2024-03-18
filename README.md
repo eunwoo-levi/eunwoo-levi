@@ -6,7 +6,7 @@
 - 🤔 2001. 01 .01
 - 💬 Republic of KOREA
 - 📫 eunwoo1341@gmail.com
-- ⚡ Worked as Korean Augmentation To the United States Army, KATUSA from Sep 6th 21 to Mar 5th 23
+- ⚡ Served in Korean Augmentation To the United States Army, KATUSA from Sep 6th 21 to Mar 5th 23
 <br><br>
 velog : https://velog.io/@eunwoo1341/posts
 <br><br><br><br><br>
