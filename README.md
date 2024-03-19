@@ -8,7 +8,7 @@
 - 📫 eunwoo1341@gmail.com
 - ⚡ Served in Korean Augmentation To the United States Army, KATUSA from Sep 6th 21 to Mar 5th 23
 <br><br>
-velog : https://velog.io/@eunwoo1341/posts
+EunWoo 의 **velog** : https://velog.io/@eunwoo1341/posts
 <br><br><br><br><br>
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
