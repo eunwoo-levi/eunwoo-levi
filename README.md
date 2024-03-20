@@ -1,4 +1,4 @@
-### ***"The only failure is not trying"***   -    **"꾸준히 성장하는 개발자" **
+### ***"The only failure is not trying"***   -    ***"꾸준히 성장하는 개발자" ***
 
 - 😄 EunWoo
 - 🔭 Kyungbook National University
