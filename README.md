@@ -7,10 +7,12 @@
 - 💬 Republic of KOREA
 - 📫 eunwoo1341@gmail.com
 - ⚡ Served in Korean Augmentation To the United States Army, KATUSA from Sep 6th 21 to Mar 5th 23
-<br><br>
+<br/><br/><br/>
+***
+** ***React*** & ***JavaScript*** & ***Algorithm*** 열심히 독학 학습 하는 중! ** <br/> <br/>
 EunWoo 의 **velog** : https://velog.io/@eunwoo1341/posts
+***
 <br><br><br><br><br>
-
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunwoo-levi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
