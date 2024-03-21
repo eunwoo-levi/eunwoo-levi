@@ -18,6 +18,8 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=eunwoo1341)](https://solved.ac/eunwoo1341)
 <br/><br/> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; baekjoon 시작 : Since 21th Feb, 2024 ~
+
++ 현재 프로그래머스 같이 달리는중
 <br/><br/>
 
 
