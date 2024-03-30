@@ -22,7 +22,6 @@ github-readme-stats.vercel.app/api?username={eunwoo-levi}&show_icons=true&theme=
 + 프로그래머스
 <br/><br/>
 
-[![EunWoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunwoo-levi)](https://github.com/eunwoo-levi/github-readme-stats)
 
 <br><br><br><br><br>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
