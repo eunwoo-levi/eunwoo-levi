@@ -14,7 +14,6 @@
 ***
 <br/><br/><br/>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-github-readme-stats.vercel.app/api?username={eunwoo-levi}&show_icons=true&theme=dark
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=eunwoo1341)](https://solved.ac/eunwoo1341)
 <br/><br/> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; baekjoon 시작 : Since 21th Feb, 2024 ~
