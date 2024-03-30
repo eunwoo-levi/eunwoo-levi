@@ -14,7 +14,7 @@
 ***
 <br/><br/><br/>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunwoo-levi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+github-readme-stats.vercel.app/api?username={eunwoo-levi}&show_icons=true&theme=dark
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=eunwoo1341)](https://solved.ac/eunwoo1341)
 <br/><br/> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; baekjoon 시작 : Since 21th Feb, 2024 ~
@@ -22,6 +22,7 @@
 + 프로그래머스
 <br/><br/>
 
+[![EunWoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunwoo-levi)](https://github.com/eunwoo-levi/github-readme-stats)
 
 <br><br><br><br><br>
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
