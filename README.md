@@ -1,6 +1,7 @@
 ### **"The only failure is not trying"**   -    " **꾸준히 성장하는 개발자** " 
-
+<div align=center>
 ***Front Software Engineer***
+</div> 
 
 - 😄 EunWoo
 - 🔭 Kyungbook National University
