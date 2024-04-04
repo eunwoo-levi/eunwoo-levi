@@ -1,5 +1,7 @@
 ### **"The only failure is not trying"**   -    " **꾸준히 성장하는 개발자** " 
 
+***Front Software Engineer***
+
 - 😄 EunWoo
 - 🔭 Kyungbook National University
 - 🌱 Major - Computer Science
