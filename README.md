@@ -1,6 +1,6 @@
 ### **"The only failure is not trying"**   -    " **꾸준히 성장하는 개발자** " 
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<***Front Software Engineer***>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<***Frontend Software Engineer***>
 <br/><br/>
 - 😄 EunWoo
 - 🔭 Kyungbook National University
