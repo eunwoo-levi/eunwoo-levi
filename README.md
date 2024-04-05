@@ -9,9 +9,12 @@
 - 💬 Republic of KOREA
 - 📫 eunwoo1341@gmail.com
 - ⚡ Served in Korean Augmentation To the United States Army, KATUSA from Sep 6th 21 to Mar 5th 23
+
+  <br/> <br/>
+<div align="center">   React & HTML / CSS / JavaScript & C++ Algorithm <br/> <br/> </div>
+
 <br/><br/><br/>
 ***
-***React*** & ***HTML/CSS/JavaScript*** & ***C++ Algorithm*** <br/> <br/>
 **EunWoo** 의 **velog** : https://velog.io/@eunwoo1341/posts
 ***
 <br/><br/><br/>
