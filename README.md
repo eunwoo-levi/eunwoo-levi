@@ -11,7 +11,7 @@
 - ⚡ Served in Korean Augmentation To the United States Army, KATUSA from Sep 6th 21 to Mar 5th 23
 <br/><br/><br/>
 ***
-***React*** & ***JavaScript*** & ***Algorithm*** <br/> <br/>
+***React*** & ***HTML/CSS/JavaScript*** & ***C++ Algorithm*** <br/> <br/>
 **EunWoo** 의 **velog** : https://velog.io/@eunwoo1341/posts
 ***
 <br/><br/><br/>
