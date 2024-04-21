@@ -1,4 +1,5 @@
-### **"The only failure is not to try"**   -    " **꾸준히 성장하는 개발자** " 
+### **"The only failure is not to try"**   -    " **기본기가 탄탄한 꾸준히 성장하는 개발자** " 
+
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<***Frontend Software Engineer***>
 <br/><br/>
