@@ -2,7 +2,7 @@
 
 
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<***Frontend Software Engineer***>
-<br/><br/>
+<br/><br/> 
 - 😄 EunWoo
 - 🔭 Kyungbook National University
 - 🌱 Major - Computer Science
