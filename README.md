@@ -12,7 +12,7 @@
 - ⚡ Served in Korean Augmentation To the United States Army, KATUSA from Sep 6th 21 to Mar 5th 23
 
   <br/> 
-<div align="center">   React & HTML / CSS / JavaScript / &nbsp; &nbsp; C++ Algorithm <br/>  </div>
+<div align="center">   React   /  HTML / CSS / JavaScript / &nbsp; &nbsp; C++ Algorithm <br/>  </div>
 
 <br/>
 
