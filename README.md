@@ -17,7 +17,7 @@
 <br/>
 
 ***
-**EunWoo** 의 **velog** : https://velog.io/@eunwoo1341/posts     <-   React 공부중..
+**EunWoo** 의 **velog** : https://velog.io/@eunwoo1341/posts     &nbsp; &nbsp;  <-   React 공부중..
 ***
 <br/>
 
