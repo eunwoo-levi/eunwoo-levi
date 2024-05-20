@@ -14,11 +14,11 @@
 - 📫 eunwoo1341@gmail.com
 - ⚡ Served in Korean Augmentation To the United States Army, KATUSA from Sep 6th 21 to Mar 5th 23
 
-  <br/> 
+  <br/>
+
 <div align="center">   React   /  HTML / CSS / JavaScript / &nbsp; &nbsp; C++ Algorithm <br/>  </div>
 
-<br/><br/>
-
+***
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunwoo-levi)](https://github.com/anuraghazra/github-readme-stats)
 
