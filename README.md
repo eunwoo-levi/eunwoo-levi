@@ -1,3 +1,4 @@
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Eunwoo's%20Github&fontSize=90" />
 
 ### **"The only failure is not to try"**   -    " **꾸준히 성장하는 개발자** " 
 
@@ -23,7 +24,7 @@
 
 <br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunwoo-levi)](https://github.com/anuraghazra/github-readme-stats)
+![Eunwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunwoo-levi&theme=synthwave&show_icons=true)
 <br/>
 
 ***
