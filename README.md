@@ -43,7 +43,7 @@
 <br/>
 
 ***
-**EunWoo** 의 **velog** : https://velog.io/@eunwoo1341/posts     &nbsp; &nbsp;  <-   Algorithm, React, Next.js 등 공부중..
+**EunWoo** 의 **velog** : https://velog.io/@eunwoo1341/posts     &nbsp; &nbsp;  <-   Algorithm, React, Next.js 등 공부중
 ***
 <br/>
 
