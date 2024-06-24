@@ -16,9 +16,6 @@
 
   <br/>
 
-<div align="center">   React   /  HTML / CSS / JavaScript / &nbsp; &nbsp; C++ Algorithm <br/>  </div>
- <br/>
-
 
 🌱 **STACKS**🌱 
  <br/>
