@@ -10,6 +10,10 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <***Frontend Software Engineer + FullStack***>
 <br/><br/> 
+
+PORTFOLIO : https://eunwoo-levi.vercel.app
+
+
 - 😄 EunWoo
 - 🔭 Kyungbook National University
 - 🌱 Major - Computer Science
