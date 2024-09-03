@@ -11,7 +11,9 @@
 <***Frontend Software Engineer + FullStack***>
 <br/><br/> 
 
-PORTFOLIO : https://eunwoo-levi.vercel.app
+
+PORTFOLIO  (본인이 직접 만든 포트폴리오 및 기술 블로그)
+: https://eunwoo-levi.vercel.app
 
 
 - 😄 EunWoo
