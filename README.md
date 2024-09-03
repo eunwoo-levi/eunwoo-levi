@@ -12,10 +12,10 @@
 <br/><br/> 
 
 
-PORTFOLIO  (본인이 직접 만든 포트폴리오 및 기술 블로그)
+PORTFOLIO  (본인이 직접 만든 포트폴리오 및 기술 블로그) <br/>
 : https://eunwoo-levi.vercel.app
 
-
+ <br/> <br/>
 - 😄 EunWoo
 - 🔭 Kyungbook National University
 - 🌱 Major - Computer Science
