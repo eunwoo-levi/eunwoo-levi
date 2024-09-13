@@ -75,7 +75,7 @@
 <br/>
 
 ***
-**EunWoo** 의 **velog** : https://velog.io/@eunwoo1341/posts     &nbsp; &nbsp;  <-   Algorithm, React, Next.js 등 공부중    => 개인 블로그로 옮김
+**EunWoo** 의 **velog** : https://velog.io/@eunwoo1341/posts     &nbsp; &nbsp;  <-  기술블로그
 ***
 <br/>
 
