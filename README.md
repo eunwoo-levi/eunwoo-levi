@@ -36,7 +36,7 @@
 <br/>
 
 < Experience >
-- GDSC KNU 4기 (Google Developer Stduent Clubs)  2024/09/15 ~ ongoing
+- GDSC KNU 4기 (Google Developer Student Clubs)  2024/09/15 ~ ongoing
 
   <br/>
 
