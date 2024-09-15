@@ -40,7 +40,7 @@
 <br/>
 
 < Experience >
-- GDSC club  2024/09/15 ~ ongoing
+- GDSC (Google Developer Stduent Clubs)  2024/09/15 ~ ongoing
 
   <br/>
 
