@@ -33,14 +33,10 @@
 - 💬 Republic of KOREA
 - 📫 eunwoo1341@gmail.com
 - ⚡ Served in Korean Augmentation To the United States Army, KATUSA from Sep 6th 21 to Mar 5th 23
-
-
-<br/>
-<br/>
 <br/>
 
 < Experience >
-- GDSC (Google Developer Stduent Clubs)  2024/09/15 ~ ongoing
+- GDSC KNU 4기 (Google Developer Stduent Clubs)  2024/09/15 ~ ongoing
 
   <br/>
 
