@@ -35,10 +35,13 @@
 - ⚡ Served in Korean Augmentation To the United States Army, KATUSA from Sep 6th 21 to Mar 5th 23
 <br/>
 
-< Experience >
+< **Experience** >
 - 2024 고용노동 공공데이터 활용 대회 - Frontend 2024/07
 - 대구 환경청 협업 프로젝트 2024/07 ~ 2024/09  - Frontend, Backend - FullStack
 - 대구를 빛내는 해커톤 2024/09 - Frontend
+- GDSC KNU 4기 (Google Developer Student Clubs)  2024/09/15 ~ ongoing
+
+< **Extracurricular Activities** >
 - GDSC KNU 4기 (Google Developer Student Clubs)  2024/09/15 ~ ongoing
 
 
