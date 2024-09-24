@@ -36,7 +36,10 @@
 <br/>
 
 < Experience >
+- 2024 고용노동 공공데이터 활용 대회 2024/07
+- 대구를 빛내는 해커톤 2024/09
 - GDSC KNU 4기 (Google Developer Student Clubs)  2024/09/15 ~ ongoing
+
 
   <br/>
 
