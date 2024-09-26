@@ -88,9 +88,10 @@
 ***
 **EunWoo** 의 **velog** : https://velog.io/@eunwoo1341/posts     &nbsp; &nbsp;  <-  기술블로그
 ***
-<br/>
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=eunwoo1341)](https://solved.ac/eunwoo1341)
+<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eunwoo1341)](https://solved.ac/eunwoo1341/)
+
 <br/><br/> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; baekjoon 시작 : Since 21th Feb, 2024 ~
 
 <br/>
