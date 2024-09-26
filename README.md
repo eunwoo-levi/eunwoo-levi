@@ -83,6 +83,7 @@
 <br/>
 
 ![Eunwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunwoo-levi&theme=synthwave&show_icons=true)
+
 <br/>
 
 ***
@@ -90,7 +91,9 @@
 ***
 
 <br/>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=eunwoo1341)](https://solved.ac/eunwoo1341/)
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eunwoo1341)](https://solved.ac/eunwoo1341)
+
 
 <br/><br/> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; baekjoon 시작 : Since 21th Feb, 2024 ~
 
