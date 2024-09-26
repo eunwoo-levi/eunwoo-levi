@@ -38,7 +38,7 @@
 < **Experience** >
 - 2024 고용노동 공공데이터 활용 대회 - Frontend 2024/07
 - 대구 환경청 협업 프로젝트 2024/07 ~ 2024/09  - Frontend, Backend - FullStack
-- 대구를 빛내는 해커톤 2024/09 - Frontend
+- 대구를 빛내는 해커톤 본선 진출 - 2024/09 - Frontend
 
 <br/><br/>
 
