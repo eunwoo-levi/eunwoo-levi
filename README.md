@@ -75,7 +75,7 @@
  ![React](https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ***
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunwoo-levi)](https://github.com/anuraghazra/github-readme-stats)
+﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunwoo-levi&langs_count=10&layout=compact&theme=dark)](https://github.com/eunwoo-levi)﻿
 
 
 <br/>
