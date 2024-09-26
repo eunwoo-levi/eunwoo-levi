@@ -40,6 +40,8 @@
 - 대구 환경청 협업 프로젝트 2024/07 ~ 2024/09  - Frontend, Backend - FullStack
 - 대구를 빛내는 해커톤 2024/09 - Frontend
 
+<br/><br/>
+
 < **Extracurricular Activities** >
 - Google Developers Group On Campus knu 4기 FrontEnd 2024/09/15 ~ ongoing
 
