@@ -3,7 +3,7 @@
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
 **"The only failure is not to try"**  
 <br/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-" **꾸준히 성장하는 개발자** " 
+" **절대 포기하지 않고 꾸준히 성장하는 개발자** " 
 
 
  
@@ -39,7 +39,6 @@
 - 2024 고용노동 공공데이터 활용 대회 - Frontend 2024/07
 - 대구 환경청 협업 프로젝트 2024/07 ~ 2024/09  - Frontend, Backend - FullStack
 - 대구를 빛내는 해커톤 2024/09 - Frontend
-- GDSC KNU 4기 (Google Developer Student Clubs)  2024/09/15 ~ ongoing
 
 < **Extracurricular Activities** >
 - Google Developers Group On Campus knu 4기 FrontEnd 2024/09/15 ~ ongoing
