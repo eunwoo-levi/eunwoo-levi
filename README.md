@@ -42,7 +42,7 @@
 - GDSC KNU 4기 (Google Developer Student Clubs)  2024/09/15 ~ ongoing
 
 < **Extracurricular Activities** >
-- GDSC KNU 4기 (Google Developer Student Clubs)  2024/09/15 ~ ongoing
+- Google Developers Group On Campus knu 4기 FrontEnd 2024/09/15 ~ ongoing
 
 
   <br/>
