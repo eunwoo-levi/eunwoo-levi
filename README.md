@@ -43,7 +43,7 @@
 <br/><br/>
 
 < **Extracurricular Activities** >
-- Google Developers Group On Campus knu 4기 FrontEnd 2024/09/15 ~ ongoing
+- Google Developers Group On Campus KNU 4기 FrontEnd 2024/09/15 ~ ongoing
 
 
   <br/>
