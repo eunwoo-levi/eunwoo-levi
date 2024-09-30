@@ -20,7 +20,7 @@
 - (본인이 직접 만든 포트폴리오 및 기술 블로그) 
 
 <br/>
-: https://eunwoo-levi.vercel.app
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://eunwoo-levi.vercel.app)](https://eunwoo-levi.vercel.app) : https://eunwoo-levi.vercel.app
 <br/>
 
 ***
