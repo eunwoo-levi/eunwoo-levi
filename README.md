@@ -17,7 +17,7 @@
 <br/>
 
 # **PORTFOLIO**   
-- (Next.JS로 개발한 기술 블로그 및 포트폴리오)  : https://eunwoo-levi.vercel.app
+- (Next.JS로 개발한 개인 기술 블로그 및 포트폴리오)  : https://eunwoo-levi.vercel.app
 
  &nbsp; &nbsp;  &nbsp; &nbsp; - [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://eunwoo-levi.vercel.app)](https://eunwoo-levi.vercel.app) 
 
