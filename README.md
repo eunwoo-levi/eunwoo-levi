@@ -9,7 +9,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=1E95D2&repeat=false&random=false&width=500&lines=Hello%2C+I'm+Eunwoo-Levi!, + Frontend" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=1E95D2&repeat=false&random=false&width=450&lines=함께 일하고 싶은 Frontend 개발자" alt="Typing SVG" />
   <br/><br/>
   <p style="font-size: 20px; font-weight: bold; color: #1E95D2;">
     "The only failure is not to try"
