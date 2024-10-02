@@ -21,6 +21,8 @@
 
  &nbsp; &nbsp;  &nbsp; &nbsp; - [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://eunwoo-levi.vercel.app)](https://eunwoo-levi.vercel.app) 
 
+-  **EunWoo** 의 **velog** 기술블로그
+&nbsp; &nbsp;  &nbsp; &nbsp; : https://velog.io/@eunwoo1341/posts
 <br/><br/>
 
 ***
@@ -85,11 +87,6 @@
 
 ![Eunwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunwoo-levi&theme=synthwave&show_icons=true)
 
-<br/>
-
-***
-**EunWoo** 의 **velog** : https://velog.io/@eunwoo1341/posts     &nbsp; &nbsp;  <-  기술블로그
-***
 
 <br/>
 
