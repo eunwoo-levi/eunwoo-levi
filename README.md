@@ -42,8 +42,6 @@
  <img src="https://img.shields.io/badge/-Recoil-3578E5?style=flat&logo=recoil&logoColor=white" width="84px"/>
 
  <br/>
- <br/>
- <br/>
 
 
  ⚡ **MAIN**⚡  <br/><br/>
@@ -59,12 +57,34 @@
 ***
 
 # **PORTFOLIO**   
-- (Next.JS로 개발한 개인 기술 블로그 및 포트폴리오)  : https://eunwoo-levi.vercel.app
-
- &nbsp; &nbsp;  &nbsp; &nbsp; - [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://eunwoo-levi.vercel.app)](https://eunwoo-levi.vercel.app) 
-
--  **EunWoo** 의 **velog** 기술블로그
-&nbsp; &nbsp;  &nbsp; &nbsp; : https://velog.io/@eunwoo1341/posts
+<div align="center">
+  <h2>📚 Tech Blog & Portfolio</h2>
+  
+  <a href="https://eunwoo-levi.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Tech%20Blog-20232A?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Tech Blog" />
+  </a>
+  &nbsp;
+  <a href="https://velog.io/@eunwoo1341/posts" target="_blank">
+    <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white" alt="Velog" />
+  </a>
+  
+  <br><br>
+  
+  <table>
+    <tr>
+      <td align="center">
+        <strong>본인이 만든 Next.js Portfolio & Tech Blog</strong><br>
+        <a href="https://eunwoo-levi.vercel.app" target="_blank">https://eunwoo-levi.vercel.app</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <strong>EunWoo's 기술 Velog</strong><br>
+        <a href="https://velog.io/@eunwoo1341/posts" target="_blank">https://velog.io/@eunwoo1341/posts</a>
+      </td>
+    </tr>
+  </table>
+</div>
 <br/><br/>
 
 ***
