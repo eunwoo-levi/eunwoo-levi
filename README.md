@@ -56,10 +56,8 @@
 
 ***
 
-# **PORTFOLIO**   
+# **📚 Blog & Portfolio**   
 <div align="center">
-  <h2>📚 Blog & Portfolio</h2>
-  
   <table>
     <tr>
       <td align="center" style="background-color: #0070f3; padding: 20px; border-radius: 10px;">
@@ -108,23 +106,26 @@
 
   <br/>
 
-
-
 ***
 
-﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eunwoo-levi&langs_count=10&layout=compact&theme=dark)](https://github.com/eunwoo-levi)﻿
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunwoo-levi&langs_count=10&layout=compact&theme=dark" alt="Top Langs" height="195">
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=eunwoo-levi&theme=synthwave&show_icons=true" alt="Eunwoo's GitHub stats" height="195">
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 <br/>
 
-![Eunwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=eunwoo-levi&theme=synthwave&show_icons=true)
-
-
-<br/>
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eunwoo1341)](https://solved.ac/eunwoo1341)
-
-
-<br/><br/> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; baekjoon 시작 : Since 21th Feb, 2024 ~
-
-<br/>
+<div align="center">
+  <a href="https://solved.ac/eunwoo1341">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eunwoo1341" alt="Solved.ac 프로필">
+  </a>
+</div>
