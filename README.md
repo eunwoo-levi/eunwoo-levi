@@ -1,15 +1,27 @@
 <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Eunwoo's%20Github&fontSize=90" />
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-**"The only failure is not to try"**  
-<br/>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-" **절대 포기하지 않고 꾸준히 성장하는 개발자** " 
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=1E95D2&repeat=false&random=false&width=500&lines=Hello%2C+I'm+Eunwoo-Levi!, + Frontend" alt="Typing SVG" />
+  <br/><br/>
+  <p style="font-size: 20px; font-weight: bold; color: #1E95D2;">
+    "The only failure is not to try"
+  </p>
+  <p style="font-size: 18px; font-style: italic; color: #5E82AC;">
+    "절대 포기하지 않고 꾸준히 성장하는 개발자"
+  </p>
+  <br/>
+  <p style="font-size: 16px; background-color: #0D1117; color: #58A6FF; padding: 10px; border-radius: 5px;">
+    Frontend Software Engineer + FullStack
+  </p>
+  <br/>
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+</div>
 
  
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-<***Frontend Software Engineer + FullStack***>
-<br/><br/>  <br/>
 
 ***
 
