@@ -82,26 +82,87 @@
 
 ***
 
- <br/> <br/>
-- 😄 EunWoo
-- 🔭 Kyungbook National University
-- 🌱 Major - Computer Science
-- 🤔 2001. 01 .01
-- 💬 Republic of KOREA
-- 📫 eunwoo1341@gmail.com
-- ⚡ Served in Korean Augmentation To the United States Army, KATUSA from Sep 6th 21 to Mar 5th 23
+<div align="center">
+  <h2>👨‍💻 About Me</h2>
+  <table>
+    <tr>
+      <td align="center"><strong>👤 Name</strong></td>
+      <td>EunWoo</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>🏫 Education</strong></td>
+      <td>Kyungbook National University</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>🎓 Major</strong></td>
+      <td>Computer Science</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>🎂 Birthday</strong></td>
+      <td>2001. 01. 01</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>🌏 Location</strong></td>
+      <td>Republic of KOREA</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>📧 Email</strong></td>
+      <td><a href="mailto:eunwoo1341@gmail.com">eunwoo1341@gmail.com</a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>🎖️ Military Service</strong></td>
+      <td>Served in Korean Augmentation To the United States Army (KATUSA)<br>Sep 6th 2021 - Mar 5th 2023</td>
+    </tr>
+  </table>
+</div>
 <br/>
 
-< **Experience** >
-- 2024 고용노동 공공데이터 활용 대회 - Frontend - 2024/07 - 2024/08
-- 대구 환경청 협업 프로젝트 - FullStack 2024/07 - 2024-09
-- 2024 대구를 빛내는 해커톤 본선 진출 - Frontend - 2024/09
-- 건축사 웹페이지 외주 제작 - FullStack - 2024/09
+<div align="center">
+  <h2>🚀 Experience & Activities</h2>
+  
+  <h3>💼 Professional Experience</h3>
+  <table>
+    <tr>
+      <th>Project/Event</th>
+      <th>Role</th>
+      <th>Period</th>
+    </tr>
+    <tr>
+      <td>2024 고용노동 공공데이터 활용 대회</td>
+      <td><strong>Frontend</strong></td>
+      <td>2024/07 - 2024/08</td>
+    </tr>
+    <tr>
+      <td>대구 환경청 협업 프로젝트</td>
+      <td><strong>FullStack</strong></td>
+      <td>2024/07 - 2024/09</td>
+    </tr>
+    <tr>
+      <td>2024 대구를 빛내는 해커톤 본선 진출</td>
+      <td><strong>Frontend</strong></td>
+      <td>2024/09</td>
+    </tr>
+    <tr>
+      <td>건축사 웹페이지 외주 제작</td>
+      <td><strong>FullStack</strong></td>
+      <td>2024/09</td>
+    </tr>
+  </table>
 
-<br/><br/>
-
-< **Extracurricular Activities** >
-- Google Developers Group On Campus KNU 4기 FrontEnd 2024/09/15 ~ ongoing
+  <h3>🌟 Extracurricular Activities</h3>
+  <table>
+    <tr>
+      <th>Organization</th>
+      <th>Role</th>
+      <th>Period</th>
+    </tr>
+    <tr>
+      <td>Google Developers Group On Campus KNU 4기</td>
+      <td><strong>FrontEnd</strong></td>
+      <td>2024/09/15 - Present</td>
+    </tr>
+  </table>
+</div>
 
 
   <br/>
