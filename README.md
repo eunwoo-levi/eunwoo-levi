@@ -16,6 +16,13 @@
 
 <br/>
 
+<div align="center">
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunwoo-levi&count_bg=%23010719&title_bg=%235EB4F3&icon=react.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false" alt="Hits" />
+  </a>
+</div>
+
+
 # **PORTFOLIO**   
 - (Next.JS로 개발한 개인 기술 블로그 및 포트폴리오)  : https://eunwoo-levi.vercel.app
 
