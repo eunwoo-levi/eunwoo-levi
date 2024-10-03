@@ -150,6 +150,11 @@
       <td><strong>FullStack</strong></td>
       <td>2024/09</td>
     </tr>
+    <tr>
+      <td>경매 웹사이트 제작</td>
+      <td><strong>Frontend</strong></td>
+      <td>2024/09 - ongoing</td>
+    </tr>
   </table>
 
   <h3>🌟 Extracurricular Activities</h3>
@@ -162,7 +167,7 @@
     <tr>
       <td>Google Developers Group On Campus KNU 4기</td>
       <td><strong>FrontEnd</strong></td>
-      <td>2024/09/15 - Present</td>
+      <td>2024/09/15 - onGoing</td>
     </tr>
   </table>
 </div>
