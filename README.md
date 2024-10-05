@@ -53,11 +53,6 @@
     <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
     <img src="https://img.shields.io/badge/-Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" alt="Recoil" />
   </p>
-  <p>
-    <img src="https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" alt="React Query" />
-    <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-    <img src="https://img.shields.io/badge/-Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" alt="Recoil" />
-  </p>
 </div>
 
 ***
