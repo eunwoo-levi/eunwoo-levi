@@ -131,7 +131,7 @@
       <td>2024/07 - 2024/08</td>
     </tr>
     <tr>
-      <td>대구 환경청 협업 프로젝트</td>
+      <td>대구 환경청 협업 Team 프로젝트</td>
       <td><strong>FullStack</strong></td>
       <td>2024/07 - 2024/09</td>
     </tr>
@@ -146,7 +146,7 @@
       <td>2024/09 - ongoing</td>
     </tr>
     <tr>
-      <td>경매 웹사이트 제작</td>
+      <td>경매 웹사이트 제작 Team 프로젝트</td>
       <td><strong>Frontend</strong></td>
       <td>2024/09 - ongoing</td>
     </tr>
