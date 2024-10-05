@@ -118,7 +118,7 @@
 <div align="center">
   <h2>🚀 Experience & Activities</h2>
   
-  <h3>💼 Professional Experience</h3>
+  <h3>💼 Project Experience</h3>
   <table>
     <tr>
       <th>Project/Event</th>
