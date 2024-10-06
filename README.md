@@ -136,6 +136,11 @@
       <td>2024/07 - 2024/09</td>
     </tr>
     <tr>
+      <td>개인 포트폴리오 및 기술 블로그 제작 with Next.JS</td>
+      <td><strong>Frontend</strong></td>
+      <td>2024/08</td>
+    </tr>
+    <tr>
       <td>2024 대구를 빛내는 해커톤 본선 진출</td>
       <td><strong>Frontend</strong></td>
       <td>2024/09</td>
