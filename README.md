@@ -136,7 +136,7 @@
       <td>2024/07 - 2024/09</td>
     </tr>
     <tr>
-      <td>개인 포트폴리오 및 기술 블로그 제작 with Next.JS</td>
+      <td><a href="https://eunwoo-levi.blog" target="_blank">개인 포트폴리오 및 기술 블로그 제작 with Next.JS</a></td>
       <td><strong>Frontend</strong></td>
       <td>2024/08</td>
     </tr>
