@@ -143,7 +143,7 @@
     <tr>
       <td>2024 대구를 빛내는 해커톤 본선 진출</td>
       <td><strong>Frontend</strong></td>
-      <td>2024/09</td>
+      <td>2024/09 - 2024/09</td>
     </tr>
     <tr>
       <td>건축사 웹페이지 외주 제작</td>
@@ -153,7 +153,7 @@
     <tr>
       <td>경매 웹사이트 제작 Team 프로젝트</td>
       <td><strong>Frontend</strong></td>
-      <td>2024/09 - ongoing</td>
+      <td>2024/10 - ongoing</td>
     </tr>
   </table>
 
