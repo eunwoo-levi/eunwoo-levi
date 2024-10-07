@@ -151,7 +151,7 @@
       <td>2024/09 - ongoing</td>
     </tr>
     <tr>
-      <td>경매 웹사이트 제작 Team 프로젝트</td>
+      <td>경매 채팅 웹사이트 제작 Team 프로젝트</td>
       <td><strong>Frontend</strong></td>
       <td>2024/10 - ongoing</td>
     </tr>
