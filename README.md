@@ -131,7 +131,7 @@
       <td>2024/07 - 2024/08</td>
     </tr>
     <tr>
-      <td>대구 환경청 협업 재활용 홈페이지 Team Project</td>
+      <td>재활용 홈페이지 Team Project- 대구 환경청 협업 프로젝트</td>
       <td><strong>FullStack</strong></td>
       <td>2024/07 - 2024/09</td>
     </tr>
