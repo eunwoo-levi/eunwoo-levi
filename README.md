@@ -169,6 +169,11 @@
       <td><strong>FrontEnd</strong></td>
       <td>2024/09/15 - ongoing</td>
     </tr>
+    <tr>
+      <td>React Team Study - Deep Dive</td>
+      <td><strong>FrontEnd</strong></td>
+      <td>2024/09/20 - ongoing</td>
+    </tr>
   </table>
 </div>
 
