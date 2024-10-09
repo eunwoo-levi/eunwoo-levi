@@ -126,12 +126,12 @@
       <th>Period</th>
     </tr>
     <tr>
-      <td>2024 고용노동 공공데이터 활용 대회</td>
+      <td>AI 산재 챗봇 Team Project- 2024 고용노동 공공데이터 활용 대회</td>
       <td><strong>Frontend</strong></td>
       <td>2024/07 - 2024/08</td>
     </tr>
     <tr>
-      <td>대구 환경청 협업 Team 프로젝트</td>
+      <td>대구 환경청 협업 재활용 홈페이지 Team Project</td>
       <td><strong>FullStack</strong></td>
       <td>2024/07 - 2024/09</td>
     </tr>
@@ -141,7 +141,7 @@
       <td>2024/08</td>
     </tr>
     <tr>
-      <td>2024 대구를 빛내는 해커톤 장려상</td>
+      <td>대구 상권 부루마블 게임 서비스- 2024 대구를 빛내는 해커톤 장려상</td>
       <td><strong>Frontend</strong></td>
       <td>2024/09 - 2024/09</td>
     </tr>
