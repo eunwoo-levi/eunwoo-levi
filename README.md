@@ -150,7 +150,7 @@
     </tr>
     <tr>
       <td>경매 채팅 웹사이트 제작 Team 프로젝트</td>
-      <td><strong>Frontend</strong> <br/><br/>  FE:2, BE:2, Designer:1</td>
+      <td><strong>Frontend</strong> <br/><br/>  FE:2, BE:2,<br/>Designer:1</td>
       <td>2024/10 - ongoing</td>
     </tr>
   </table>
