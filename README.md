@@ -14,9 +14,6 @@
   <p style="font-size: 20px; font-weight: bold; color: #1E95D2;">
     "The only failure is not to try"
   </p>
-  <p style="font-size: 18px; font-style: italic; color: #5E82AC;">
-    "절대 포기하지 않고 꾸준히 성장하는 개발자"
-  </p>
   <br/>
   <p style="font-size: 16px; background-color: #0D1117; color: #58A6FF; padding: 10px; border-radius: 5px;">
     Frontend Software Engineer + FullStack
