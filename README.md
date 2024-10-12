@@ -130,7 +130,7 @@
     </tr>
     <tr>
       <td>재활용 홈페이지 Team Project- 대구 환경청 협업 프로젝트</td>
-      <td><strong>FullStack</strong></td>
+      <td><strong>FullStack / FE:1, BE:1, AI:1</strong></td>
       <td>2024/07 - 2024/09</td>
     </tr>
     <tr>
@@ -139,7 +139,7 @@
       <td>2024/08</td>
     </tr>
     <tr>
-      <td>대구 상권 부루마블 게임 서비스 Team Project- 2024 대구를 빛내는 해커톤 장려상</td>
+      <td>대구 상권 부루마블 게임 서비스 Team Project- 2024 대구를 빛내는 해커톤 장려상 / FE:1, BE:2</td>
       <td><strong>Frontend</strong></td>
       <td>2024/09 - 2024/09</td>
     </tr>
@@ -149,7 +149,7 @@
       <td>2024/09 - ongoing</td>
     </tr>
     <tr>
-      <td>경매 채팅 웹사이트 제작 Team 프로젝트</td>
+      <td>경매 채팅 웹사이트 제작 Team 프로젝트 / FE:2, BE:2, Designer:1</td>
       <td><strong>Frontend</strong></td>
       <td>2024/10 - ongoing</td>
     </tr>
