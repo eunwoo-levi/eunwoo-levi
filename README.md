@@ -6,13 +6,6 @@
   </a>
 </div>
 
-🇺🇸:
-
-
-:us:
-
-🇰🇷:
-
 <br/>
 
 <div align="center">
@@ -53,9 +46,16 @@
       <td><a href="mailto:eunwoo1341@gmail.com">eunwoo1341@gmail.com</a></td>
     </tr>
     <tr>
-      <td align="center"><strong>🎖️ Military Service</strong></td>
-      <td>Served in Korean Augmentation To the United States Army (KATUSA)<br>Sep 6th 2021 - Mar 5th 2023</td>
-    </tr>
+  <td align="center"><strong>🎖️ Military Service <br/>
+      <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/kr.png" alt="Korea" title="Korea">
+      <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png" alt="United States" title="United States">
+  </strong></td>
+  <td>
+    Served in Korean Augmentation To the United States Army (KATUSA)<br>
+    Sep 6th 2021 - Mar 5th 2023<br>
+  </td>
+</tr>
+
   </table>
 </div>
 <br/>
