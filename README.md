@@ -62,7 +62,7 @@
 </div>
 
 <div align="center" style="font-size: 24px; color: #1E95D2; font-weight: bold;">
-  🌍 Fluent in English, enabling effective collaboration on international projects 🌍
+  <strong>🌍 Fluent in English, enabling effective collaboration on international projects 🌍</strong>
 </div>
 
   
