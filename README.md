@@ -10,10 +10,45 @@
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=1E95D2&repeat=false&random=false&width=450&lines=함께 일하고 싶은 Frontend 개발자" alt="Typing SVG" />
-  <br/><br/>
-  <p style="font-size: 20px; font-weight: bold; color: #1E95D2;">
+  <br/>
+<p style="font-size: 20px; font-weight: bold; color: #1E95D2;">
     "The only failure is not to try"
   </p>
+<div align="center">
+  <h2>👨‍💻 About Me</h2>
+  <table>
+    <tr>
+      <td align="center"><strong>👤 Name</strong></td>
+      <td>EunWoo</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>🏫 Education</strong></td>
+      <td>Kyungbook National University</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>🎓 Major</strong></td>
+      <td>Computer Science</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>🎂 Birthday</strong></td>
+      <td>2001. 01. 01</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>🌏 Location</strong></td>
+      <td>Republic of KOREA</td>
+    </tr>
+    <tr>
+      <td align="center"><strong>📧 Email</strong></td>
+      <td><a href="mailto:eunwoo1341@gmail.com">eunwoo1341@gmail.com</a></td>
+    </tr>
+    <tr>
+      <td align="center"><strong>🎖️ Military Service</strong></td>
+      <td>Served in Korean Augmentation To the United States Army (KATUSA)<br>Sep 6th 2021 - Mar 5th 2023</td>
+    </tr>
+  </table>
+</div>
+<br/>
+  
   <br/>
   <p style="font-size: 16px; background-color: #0D1117; color: #58A6FF; padding: 10px; border-radius: 5px;">
     Frontend Software Engineer + FullStack
@@ -77,41 +112,6 @@
 </div>
 
 ***
-
-<div align="center">
-  <h2>👨‍💻 About Me</h2>
-  <table>
-    <tr>
-      <td align="center"><strong>👤 Name</strong></td>
-      <td>EunWoo</td>
-    </tr>
-    <tr>
-      <td align="center"><strong>🏫 Education</strong></td>
-      <td>Kyungbook National University</td>
-    </tr>
-    <tr>
-      <td align="center"><strong>🎓 Major</strong></td>
-      <td>Computer Science</td>
-    </tr>
-    <tr>
-      <td align="center"><strong>🎂 Birthday</strong></td>
-      <td>2001. 01. 01</td>
-    </tr>
-    <tr>
-      <td align="center"><strong>🌏 Location</strong></td>
-      <td>Republic of KOREA</td>
-    </tr>
-    <tr>
-      <td align="center"><strong>📧 Email</strong></td>
-      <td><a href="mailto:eunwoo1341@gmail.com">eunwoo1341@gmail.com</a></td>
-    </tr>
-    <tr>
-      <td align="center"><strong>🎖️ Military Service</strong></td>
-      <td>Served in Korean Augmentation To the United States Army (KATUSA)<br>Sep 6th 2021 - Mar 5th 2023</td>
-    </tr>
-  </table>
-</div>
-<br/>
 
 <div align="center">
   <h2>🚀 Experience & Activities</h2>
