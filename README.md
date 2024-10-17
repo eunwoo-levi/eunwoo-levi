@@ -11,9 +11,13 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=1E95D2&repeat=false&random=false&width=450&lines=함께 일하고 싶은 Frontend 개발자" alt="Typing SVG" />
   <br/>
-<p style="font-size: 20px; font-weight: bold; color: #1E95D2;">
-    "The only failure is not to try"
-  </p>
+<p align="center">
+  <strong>
+    <span style="color: #1E95D2; font-size: 30px;">
+      "The only failure is not to try"
+    </span>
+  </strong>
+</p>
 <div align="center">
   <h2>👨‍💻 About Me</h2>
   <table>
