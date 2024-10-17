@@ -20,6 +20,9 @@
 </p>
 <div align="center">
   <h2>👨‍💻 About Me</h2>
+  <p style="font-size: 16px; background-color: #0D1117; color: #58A6FF; padding: 10px; border-radius: 5px;">
+    Frontend Software Engineer + FullStack
+  </p>
   <table>
     <tr>
       <td align="center"><strong>👤 Name</strong></td>
@@ -55,15 +58,17 @@
     Sep 6th 2021 - Mar 5th 2023<br>
   </td>
 </tr>
-
   </table>
 </div>
+
+<div align="center" style="font-size: 24px; color: #1E95D2; font-weight: bold;">
+  🌍 Fluent in English, enabling effective collaboration on international projects 🌍
+</div>
+
+  
 <br/>
   
   <br/>
-  <p style="font-size: 16px; background-color: #0D1117; color: #58A6FF; padding: 10px; border-radius: 5px;">
-    Frontend Software Engineer + FullStack
-  </p>
   <br/>
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
