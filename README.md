@@ -75,7 +75,8 @@
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /> &nbsp
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /> &nbsp
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /> &nbsp
+  <img src="https://i.ibb.co/MPv0wqw/Kakao-Talk-20240926-115635828-removebg-preview.png" alt="icon" width="55" height="55" />
 </div>
 
 <div align="center">
