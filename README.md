@@ -70,7 +70,8 @@
   
   <br/>
   <br/>
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /> &nbsp&nbsp&nbsp
+  <img src="https://www.soaple.io/static/post/8/cover-image.png" width="55" height="55"/> &nbsp
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
