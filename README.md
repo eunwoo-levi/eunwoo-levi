@@ -50,7 +50,7 @@
     </tr>
     <tr>
   <td align="center"><strong>🎖️ Military Service <br/>
-      <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/kr.png" alt="Korea" title="Korea">
+      <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/kr.png" alt="Korea" title="Korea"> &nbsp 
       <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png" alt="United States" title="United States">
   </strong></td>
   <td>
