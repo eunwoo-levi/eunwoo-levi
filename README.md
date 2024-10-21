@@ -55,7 +55,7 @@
   </strong></td>
   <td>
     Served in Korean Augmentation To the United States Army (KATUSA)<br>
-    Sep 6th 2021 - Mar 5th 2023<br>
+    , USAG Yongsan-Casey   &nbsp &nbsp &nbsp &nbsp &nbsp &nbsp (Sep 6th 2021 - Mar 5th 2023)
   </td>
 </tr>
   </table>
