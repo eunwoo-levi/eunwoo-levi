@@ -191,7 +191,7 @@
       <td>2024/09 - ongoing</td>
     </tr>
     <tr>
-      <td>React 우아한테크코스 프리코스 </td>
+      <td>우아한테크코스 프리코스 </td>
       <td><strong>FrontEnd</strong></td>
       <td>2024/10 - ongoing</td>
     </tr>
