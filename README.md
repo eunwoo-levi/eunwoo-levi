@@ -205,7 +205,7 @@
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunwoo-levi&langs_count=10&layout=compact&theme=dark" alt="Top Langs" height="195">
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=eunwoo-levi&show_icons=true&theme=radical" alt="Top Langs" height="195">
+        <img src="https://github-readme-stats.vercel.app/api?username=eunwoo-levi&show_icons=true&theme=radical" alt="Top Langs" height="194">
       </td>
     </tr>
   </table>
