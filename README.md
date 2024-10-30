@@ -1,13 +1,3 @@
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Eunwoo's%20Github&fontSize=90" />
-
-<div align="center">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunwoo-levi&count_bg=%23010719&title_bg=%235EB4F3&icon=react.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false" alt="Hits" />
-  </a>
-</div>
-
-<br/>
-
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=1E95D2&repeat=false&random=false&width=450&lines=함께 일하고 싶은 Frontend 개발자" alt="Typing SVG" />
   <br/>
@@ -18,6 +8,11 @@
     </span>
   </strong>
 </p>
+  <div align="center">
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunwoo-levi&count_bg=%23010719&title_bg=%235EB4F3&icon=react.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false" alt="Hits" />
+  </a>
+</div>
 <div align="center">
   <h2>👨‍💻 About Me</h2>
   <p style="font-size: 16px; background-color: #0D1117; color: #58A6FF; padding: 10px; border-radius: 5px;">
