@@ -137,32 +137,32 @@
       <th>Period</th>
     </tr>
     <tr>
-      <td>AI 산재 챗봇 Team Project- 2024 고용노동 공공데이터 활용 대회</td>
+      <td>AI 산재 챗봇 Team Project- 2024 고용노동 공공데이터 활용 대회 <br/> Tech Stack: Next.JS , Tailwind</td>
       <td><strong>Frontend</strong> <br/><br/>  FE:2, BE:2</td>
       <td>2024/07 - 2024/08</td>
     </tr>
     <tr>
-      <td><a href="https://ecobuddy.life" target="_blank">재활용 홈페이지 Team Project- 대구 환경청 협업 프로젝트</a></td>
+      <td><a href="https://ecobuddy.life" target="_blank">재활용 홈페이지 Team Project- 대구 환경청 협업 프로젝트 <br/> Tech Stack: Next.JS , Tailwind , MongoDB</a></td>
       <td><strong>FullStack</strong> <br/><br/>  FE:1, BE:1, AI:1</td>
       <td>2024/07 - 2024/09</td>
     </tr>
     <tr>
-      <td><a href="https://eunwoo-levi.blog" target="_blank">개인 포트폴리오 및 기술 블로그 제작 with Next.JS</a></td>
+      <td><a href="https://eunwoo-levi.blog" target="_blank">개인 포트폴리오 및 기술 블로그 제작 with Next.JS</a> <br/> Tech Stack: Next.JS , Tailwind</td>
       <td><strong>Frontend</strong></td>
       <td>2024/08</td>
     </tr>
     <tr>
-      <td>대구 상권 부루마블 게임 서비스 Team Project- 2024 대구를 빛내는 해커톤 장려상 </td>
+      <td>대구 상권 부루마블 게임 서비스 Team Project- 2024 대구를 빛내는 해커톤 장려상 <br/> Tech Stack: Next.JS , Tailwind </td>
       <td><strong>Frontend</strong>  <br/><br/>   FE:1, BE:2 </td>
       <td>2024/09 - 2024/09</td>
     </tr>
     <tr>
-      <td>건축사 웹페이지 외주 제작</td>
+      <td>건축사 웹페이지 외주 제작 <br/> Tech Stack: Next.JS , Tailwind</td>
       <td><strong>FullStack</strong></td>
       <td>2024/09 - ongoing</td>
     </tr>
     <tr>
-      <td>경매 채팅 웹사이트 제작 Team 프로젝트</td>
+      <td>경매 채팅 웹사이트 제작 Team 프로젝트 <br/> Tech Stack: React.JS , Vite , Tailwind , Docker</td>
       <td><strong>Frontend</strong> <br/><br/>  FE:2, BE:2,<br/>Designer:1</td>
       <td>2024/10 - ongoing</td>
     </tr>
