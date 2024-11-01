@@ -142,7 +142,7 @@
       <td>2024/07 - 2024/08</td>
     </tr>
     <tr>
-      <td><a href="https://ecobuddy.life" target="_blank">재활용 홈페이지 Team Project- 대구 환경청 협업 프로젝트 <br/> Tech Stack: Next.JS , Tailwind , MongoDB</a></td>
+      <td><a href="https://ecobuddy.life" target="_blank">재활용 홈페이지 Team Project- 대구 환경청 협업 프로젝트</a> <br/> Tech Stack: Next.JS , Tailwind , MongoDB</td>
       <td><strong>FullStack</strong> <br/><br/>  FE:1, BE:1, AI:1</td>
       <td>2024/07 - 2024/09</td>
     </tr>
