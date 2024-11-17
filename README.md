@@ -211,16 +211,3 @@
     </tr>
   </table>
 </div>
-
-
-  <br/>
-
-***
-
-<br/>
-
-<div align="center">
-  <a href="https://solved.ac/eunwoo1341">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=eunwoo1341" alt="Solved.ac 프로필">
-  </a>
-</div>
