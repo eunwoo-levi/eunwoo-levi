@@ -16,7 +16,7 @@
 <div align="center">
   <h2>👨‍💻 About Me</h2>
   <p style="font-size: 16px; background-color: #0D1117; color: #58A6FF; padding: 10px; border-radius: 5px;">
-    Frontend Software Engineer + FullStack
+   <h4> Frontend Software Engineer + FullStack </h4>
   </p>
   <table>
     <tr>
@@ -60,21 +60,19 @@
   <strong>🌍 Fluent in English, enabling effective collaboration on international projects 🌍</strong>
 </div>
 
-  
-<br/>
-  
   <br/>
-  <br/>
+
+<div align="center">
+  <h2>🛠️ Tech Stacks</h2>
+
+<p>
   <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /> &nbsp&nbsp&nbsp
   <img src="https://www.soaple.io/static/post/8/cover-image.png" width="55" height="55"/> &nbsp
   <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /> &nbsp
   <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /> &nbsp
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /> &nbsp
-</div>
-
-<div align="center">
-  <h2>🛠️ Tech Stacks</h2>
+</p>
 
   <h3>⚡ Main Stack ⚡</h3>
   <p>
@@ -99,6 +97,21 @@
     <img src="https://img.shields.io/badge/-Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" alt="Recoil" />
     <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Recoil" />
   </p>
+</div>
+
+  <br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunwoo-levi&langs_count=10&layout=compact&theme=dark" alt="Top Langs" height="195">
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=eunwoo-levi&show_icons=true&theme=radical" alt="Top Langs" height="195">
+      </td>
+    </tr>
+  </table>
 </div>
 
 ***
@@ -203,20 +216,6 @@
   <br/>
 
 ***
-
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eunwoo-levi&langs_count=10&layout=compact&theme=dark" alt="Top Langs" height="195">
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=eunwoo-levi&show_icons=true&theme=radical" alt="Top Langs" height="195">
-      </td>
-    </tr>
-  </table>
-</div>
-
 
 <br/>
 
