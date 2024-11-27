@@ -170,7 +170,7 @@
       <td>2024/09 - 2024/09</td>
     </tr>
     <tr>
-      <td>건축사 웹페이지 외주 제작 <br/> Tech Stack: Next.js , Tailwind , MongoDB </td>
+      <td><a href="https://github.com/eunwoo-levi/architect-web" target="_blank">건축사 웹페이지 외주 제작</a> <br/> Tech Stack: Next.js , Tailwind , MongoDB </td>
       <td><strong>FullStack</strong></td>
       <td>2024/09 - ongoing</td>
     </tr>
