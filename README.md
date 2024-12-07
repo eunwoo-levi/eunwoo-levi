@@ -12,7 +12,7 @@
 
 > Frontend Engineer
 
-> Major: Computer Science
+> Computer Science
 
 > 2001.01.01
 
