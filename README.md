@@ -24,7 +24,7 @@
 
 > 2001.01.01
 
-> Google Developers Group Member
+> Google Developers Group 4th
 
 > Served in Korean Augmentation To the United States Army ( KATUSA )
 
