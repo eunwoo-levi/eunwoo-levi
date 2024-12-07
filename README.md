@@ -89,7 +89,7 @@
       <th>Period</th>
     </tr>
     <tr>
-      <td> 🎖️Served in Korean Augmentation To the United States Army (KATUSA)<br>
+      <td>🎖️  Served in Korean Augmentation To the United States Army ( KATUSA )<br>
       , USAG Yongsan-Casey  &nbsp 
       <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/kr.png" alt="Korea" title="Korea"> 
       <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png" alt="United States" title="United States">
