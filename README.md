@@ -23,23 +23,11 @@
 ***
 
 <div align="center">
-  <table>
-    <tr>
-      <td align="center" style="background-color: #0070f3; padding: 20px; border-radius: 10px;">
-        <h3 style="color: white; margin-bottom: 10px;">🚀 개인 Next.js Portfolio & Tech Blog 🚀</h3>
-        <a href="https://www.eunwoo-levi.blog" target="_blank">
-    <img src="https://img.shields.io/badge/Tech%20Blog-20232A?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Tech Blog" />
+  <h3 style="color: white; margin-bottom: 10px;">🚀 개인 Next.js Portfolio & Tech Blog 🚀</h3>
+  <a href="https://www.eunwoo-levi.blog" target="_blank">
+    <img src="https://img.shields.io/badge/PORTFOLIO & Tech%20Blog-20232A?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Tech Blog" />
   </a>
-      <p style="color: #b3d4ff; margin-top: 30px;">https://www.eunwoo-levi.blog</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" style="padding: 20px;">
-        <strong>EunWoo's Tech Velog</strong><br>
-        <a href="https://velog.io/@eunwoo1341/posts" target="_blank">https://velog.io/@eunwoo1341/posts</a>
-      </td>
-    </tr>
-  </table>
+
 </div>
 
 ***
