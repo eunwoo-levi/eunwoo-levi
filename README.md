@@ -6,6 +6,14 @@
 </p>
 
 <strong>🌍 Fluent in English, enabling effective collaboration on international projects 🌍</strong> 
+
+
+<div align="center">
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunwoo-levi&count_bg=%23010719&title_bg=%235EB4F3&icon=react.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false" alt="Hits" />
+  </a>
+</div>
+
 </div>
 
 # Introduction
@@ -20,13 +28,6 @@
 
 > Served in Korean Augmentation To the United States Army ( KATUSA )
 
-
-
-<div align="center">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunwoo-levi&count_bg=%23010719&title_bg=%235EB4F3&icon=react.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false" alt="Hits" />
-  </a>
-</div>
 
 ***
 
