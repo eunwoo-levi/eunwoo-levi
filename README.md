@@ -129,7 +129,7 @@
     <tr>
       <td><a href="https://ecobuddy.life" target="_blank">재활용 홈페이지 Team Project- 대구 환경청 협업 프로젝트</a> <br/> Tech Stack: Next.js , Tailwind , Zustand , MongoDB </td>
       <td><strong>FullStack</strong> <br/><br/>  FE:1, BE:1, AI:1</td>
-      <td>2024/07 - 2024/09 <br/>(refactoring)</td>
+      <td>2024/07 - 2024/11</td>
     </tr>
     <tr>
       <td><a href="https://eunwoo-levi.blog" target="_blank">개인 포트폴리오 및 기술 블로그 제작 with Next.js</a> <br/> Tech Stack: Next.js , Tailwind</td>
