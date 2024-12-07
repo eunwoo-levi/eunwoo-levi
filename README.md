@@ -55,14 +55,6 @@
 
 <div align="center">
 <h3>🛠️ Stack </h3>
-    <p>
-    <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /> &nbsp&nbsp&nbsp
-    <img src="https://www.soaple.io/static/post/8/cover-image.png" width="55" height="55"/> &nbsp
-    <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-    <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /> &nbsp
-    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /> &nbsp
-    <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /> &nbsp
-  </p>
   <p>
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
