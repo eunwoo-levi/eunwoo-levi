@@ -152,13 +152,12 @@
       <td>2024/10 - ongoing</td>
     </tr>
     <tr>
-      <td>AI 식습관 관리 시스템 - Google Vision ChallengeThon <br/> Tech Stack: Next.js , Tailwind , Zustand </td>
+      <td><a href="https://github.com/AI-Food-Analysis-Google-Challengethon" target="_blank">AI 식습관 관리 시스템 - Google Vision ChallengeThon</a> <br/> Tech Stack: Next.js , Tailwind , Zustand </td>
       <td><strong>Frontend</strong> <br/><br/>  FE:2, BE:2,<br/>Designer:1</td>
       <td>2024/11 </td>
     </tr>
   </table>
 </div>
-
 <br/>
 
 <div align="center">
