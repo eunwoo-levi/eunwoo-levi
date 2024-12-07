@@ -28,6 +28,10 @@
     <img src="https://img.shields.io/badge/PORTFOLIO & Tech%20Blog-20232A?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Tech Blog" />
   </a>
 
+  <br/>
+  
+  <a href="https://www.eunwoo-levi.blog">https://www.eunwoo-levi.blog</a>
+
 </div>
 
 ***
