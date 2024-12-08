@@ -4,7 +4,9 @@
 <p align="center">
   <strong></strong> "The only failure is not to try"</strong>
 </p>
-<strong>🌍 Fluent in English, enabling effective collaboration on international projects 🌍</strong> 
+<div>🌍 Fluent in English, enabling effective collaboration on international projects 🌍 </div>  <br/>
+  
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunwoo-levi&count_bg=%23000000&title_bg=%23555555&icon=react.svg&icon_color=%2362B5DF&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
 # Introduction
