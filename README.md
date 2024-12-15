@@ -88,7 +88,7 @@
       <tr>
       <td>우아한테크코스 프리코스</td>
       <td><strong>FrontEnd</strong></td>
-      <td>2024/10 - ongoing</td>
+      <td>2024/10 - 12</td>
     </tr>
   </table>
   
