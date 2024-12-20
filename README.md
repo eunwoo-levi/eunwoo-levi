@@ -85,10 +85,15 @@
       <td><strong>FrontEnd</strong></td>
       <td>2024/09 - ongoing</td>
     </tr>
-      <tr>
+    <tr>
       <td>우아한테크코스 프리코스</td>
       <td><strong>FrontEnd</strong></td>
       <td>2024/10 - 2024/12</td>
+    </tr>
+    <tr>
+      <td>AI 기반 웹 서비스 개발 - (주)멜라카 현장실습</td>
+      <td><strong>FrontEnd</strong></td>
+      <td>2024/12 - 2025/2</td>
     </tr>
   </table>
   
