@@ -127,7 +127,7 @@
     <tr>
       <td><a href="https://github.com/eunwoo-levi/architect-web" target="_blank">건축사 웹페이지 외주 제작</a> <br/> Tech Stack: Next.js , Tailwind , MongoDB </td>
       <td><strong>FullStack</strong></td>
-      <td>2024/09 - ongoing</td>
+      <td>2024/09 - 2024/11</td>
     </tr>
     <tr>
       <td>경매 채팅 웹사이트 제작 Team 프로젝트 <br/> Tech Stack: React.js , Vite , Tailwind , Zustand , Docker</td>
@@ -135,9 +135,14 @@
       <td>2024/10 - ongoing</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/AI-Food-Analysis-Google-Challengethon" target="_blank">AI 식습관 관리 시스템 - Google Vision ChallengeThon</a> <br/> Tech Stack: Next.js , Tailwind , Zustand </td>
+      <td><a href="https://github.com/AI-Food-Analysis-Google-Challengethon" target="_blank">AI 식습관 관리 시스템 - Google Vision ChallengeThon</a> <br/> Tech Stack: Next.js , Tailwind , Zustand         </td>
       <td><strong>Frontend</strong> <br/><br/>  FE:2, BE:2,<br/>Designer:1</td>
       <td>2024/11 </td>
+    </tr>
+    <tr>
+      <td>Debate 서비스 <br/> Tech Stack: React , Tailwind , Vite </td>
+      <td><strong>Frontend</strong> <br/><br/>  FE:3, BE:3 </td>
+      <td>2024/12 - ongoing </td>
     </tr>
   </table>
 </div>
