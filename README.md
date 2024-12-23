@@ -140,7 +140,7 @@
       <td>2024/11 </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/debate-timer/debate-timer-fe" target="_blank"> Debate 지원 서비스 </a><br/> Tech Stack: React , Tailwind , Vite </td>
+      <td><a href="https://github.com/debate-timer/debate-timer-fe" target="_blank"> 토론 타임 키핑을 위한 타이머 서비스 </a><br/> Tech Stack: React , Tailwind , Vite </td>
       <td><strong>Frontend</strong> <br/><br/>  FE:3, BE:3 </td>
       <td>2024/12 - ongoing </td>
     </tr>
