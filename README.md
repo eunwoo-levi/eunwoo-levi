@@ -130,7 +130,7 @@
       <td>2024/09 - 2024/11</td>
     </tr>
     <tr>
-      <td>경매 채팅 웹사이트 제작 Team 프로젝트 <br/> Tech Stack: React.js , Vite , Tailwind , Zustand , Docker</td>
+      <td>경매 채팅 웹사이트 제작 Team 프로젝트 <br/> Tech Stack: React , Vite , Typescript, Tailwind , Zustand , Docker</td>
       <td><strong>Frontend</strong> <br/><br/>  FE:2, BE:2,<br/>Designer:1</td>
       <td>2024/10 - ongoing</td>
     </tr>
@@ -140,7 +140,7 @@
       <td>2024/11 </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/debate-timer/debate-timer-fe" target="_blank"> 토론 타임 키핑을 위한 타이머 서비스 </a><br/> Tech Stack: React.js , Vite, Tailwind , Storybook </td>
+      <td><a href="https://github.com/debate-timer/debate-timer-fe" target="_blank"> 토론 타임 키핑을 위한 타이머 서비스 </a><br/> Tech Stack: React , Vite, Typescript, Tailwind , Storybook </td>
       <td><strong>Frontend</strong> <br/><br/>  FE:3, BE:3 </td>
       <td>2024/12 - ongoing </td>
     </tr>
