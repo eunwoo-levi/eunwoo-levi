@@ -19,7 +19,7 @@
 
 > 2001.01.01
 
-> Served in **Korean Augmentation To the United States Army** ( KATUSA ) - USAG Yongsan-Casey
+> Served in **Korean Augmentation To the United States Army** ( KATUSA )
 
 > **Google Developers Group** 4th
 
