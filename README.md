@@ -13,7 +13,7 @@
 
 > **Frontend Engineer**
 
-> Kyungpook National University 22
+> Kyungpook National University
 
 > Major: **Computer Science** ( Double major: Electronic Engineering )
 
