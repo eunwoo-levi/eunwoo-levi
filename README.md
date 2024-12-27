@@ -17,7 +17,7 @@
 
 > Kyungpook National University
 
-> Major: **Computer Science** ( Double major: Electronic Engineering )
+> Major: **Computer Science** ( Double Major: Electronic Engineering )
 
 > Served in **Korean Augmentation To the United States Army** ( KATUSA )
 
