@@ -21,7 +21,7 @@
 
 > Served in **Korean Augmentation To the United States Army** ( KATUSA )
 
-> **Google Developers Group** 4th
+> **Google Developers Group** 4th FE
 
 > **WoowaCourse** 7th FE (우아한테크코스)
 
