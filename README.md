@@ -21,7 +21,7 @@
 
 > Google Developers Group 4th
 
-> 우아한테크코스 7기 FE
+> WoowaCourse 7th FE (우아한테크코스)
 
 ***
 
