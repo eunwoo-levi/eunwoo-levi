@@ -17,10 +17,11 @@
 
 > 2001.01.01
 
-> Google Developers Group 4th
-
 > Served in Korean Augmentation To the United States Army ( KATUSA )
 
+> Google Developers Group 4th
+
+> 우아한테크코스 7기 FE
 
 ***
 
@@ -93,6 +94,11 @@
       <td>AI 기반 웹 서비스 개발 - (주)멜라카 현장실습</td>
       <td><strong>FrontEnd</strong></td>
       <td>2024/12 - 2025/2</td>
+    </tr>
+    <tr>
+      <td> 우아한테크코스 7기 FE </td>
+      <td><strong>FrontEnd</strong></td>
+      <td>2025/3 - ongoing</td>
     </tr>
   </table>
   
