@@ -78,7 +78,7 @@
       <td>Sep 6th 2021 - Mar 5th 2023</td>
     </tr>
     <tr>
-      <td>Google Developers Group - KNU 4기</td>
+      <td>Google Developers Group - KNU 4th FE</td>
       <td><strong>FrontEnd</strong></td>
       <td>2024/09 - ongoing</td>
     </tr>
@@ -98,7 +98,7 @@
       <td>2024/12 - 2025/2</td>
     </tr>
     <tr>
-      <td> 우아한테크코스 7기 FE </td>
+      <td> 우아한테크코스 7th FE </td>
       <td><strong>FrontEnd</strong></td>
       <td>2025/3 - ongoing</td>
     </tr>
