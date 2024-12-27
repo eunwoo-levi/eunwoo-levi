@@ -13,7 +13,7 @@
 
 > Frontend Engineer
 
-> Computer Science
+> Kyungpook National Univ, Computer Science
 
 > 2001.01.01
 
