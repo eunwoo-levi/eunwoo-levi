@@ -11,19 +11,19 @@
 
 # Introduction
 
-> Frontend Engineer
+> **Frontend Engineer**
 
 > Kyungpook National University 22
 
-> Major: Computer Science ( Double major: Electronic Engineering )
+> Major: **Computer Science** ( Double major: Electronic Engineering )
 
 > 2001.01.01
 
-> Served in Korean Augmentation To the United States Army ( KATUSA )
+> Served in **Korean Augmentation To the United States Army** ( KATUSA ) - USAG Yongsan-Casey
 
-> Google Developers Group 4th
+> **Google Developers Group** 4th
 
-> WoowaCourse 7th FE (우아한테크코스)
+> **WoowaCourse** 7th FE (우아한테크코스)
 
 ***
 
