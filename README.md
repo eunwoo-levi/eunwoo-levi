@@ -13,7 +13,9 @@
 
 > Frontend Engineer
 
-> Kyungpook National Univ, Computer Science
+> Kyungpook National University
+
+> Major: Computer Science (Double major: Electronic Engineering)
 
 > 2001.01.01
 
