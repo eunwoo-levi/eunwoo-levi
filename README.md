@@ -100,7 +100,7 @@
     <tr>
       <td> 우아한테크코스 7th FE </td>
       <td><strong>FrontEnd</strong></td>
-      <td>2025/3 - ongoing</td>
+      <td>2025/2 - ongoing</td>
     </tr>
   </table>
 
