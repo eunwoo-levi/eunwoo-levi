@@ -137,11 +137,6 @@
       <td>2024/09 - 2024/11</td>
     </tr>
     <tr>
-      <td>경매 채팅 웹사이트 제작 Team 프로젝트 <br/> Tech Stack: React , Vite , Typescript, Tailwind , Zustand , Docker</td>
-      <td><strong>Frontend</strong> <br/><br/>  FE:2, BE:2,<br/>Designer:1</td>
-      <td>2024/10 </td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/AI-Food-Analysis-Google-Challengethon" target="_blank">AI 식습관 관리 시스템 - Google Vision ChallengeThon</a> <br/> Tech Stack: Next.js , Tailwind , Zustand         </td>
       <td><strong>Frontend</strong> <br/><br/>  FE:2, BE:2,<br/>Designer:1</td>
       <td>2024/11 </td>
