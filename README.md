@@ -103,6 +103,7 @@
       <td>2025/3 - ongoing</td>
     </tr>
   </table>
+
   
   <h3>💼 Project Experience</h3>
   <table>
@@ -112,7 +113,7 @@
       <th>Period</th>
     </tr>
     <tr>
-      <td>AI 산재 챗봇 Team Project- 2024 고용노동 공공데이터 활용 대회 <br/> Tech Stack: Next.js , Tailwind</td>
+      <td><a href="https://github.com/Injury-law-assist" target="_blank">AI 산재 챗봇 Team Project- 2024 고용노동 공공데이터 활용 대회</a> <br/> Tech Stack: Next.js , Tailwind</td>
       <td><strong>Frontend</strong> <br/><br/>  FE:2, BE:2</td>
       <td>2024/07 - 2024/08</td>
     </tr>
