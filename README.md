@@ -1,4 +1,4 @@
-<div align="center">
+d<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=1E95D2&repeat=false&random=false&width=480&lines=함께 일하고 싶은 Frontend Engineer" alt="Typing SVG" />
   <br/>
 <p align="center">
@@ -100,7 +100,7 @@
       <td>2024/12 - 2025/2</td>
     </tr>
     <tr>
-      <td> 우아한테크코스 7th FE </td>
+      <td> 우아한테크코스 7th FE - 우아한형제들 (Woowa Bros)</td>
       <td><strong>FrontEnd</strong></td>
       <td>2025/2 - ongoing</td>
     </tr>
