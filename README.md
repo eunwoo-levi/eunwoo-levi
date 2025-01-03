@@ -95,7 +95,7 @@
       <td>2024/10 - 2024/12</td>
     </tr>
     <tr>
-      <td>AI 기반 웹 서비스 개발 및 PM - (주)멜라카 현장실습</td>
+      <td>AI 기반 웹 서비스 개발 - FE & PM - (주)멜라카 현장실습</td>
       <td><strong>FrontEnd</strong></td>
       <td>2024/12 - 2025/2</td>
     </tr>
