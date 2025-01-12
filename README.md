@@ -90,7 +90,7 @@
     <tr>
       <td>React Team Study - Deep Dive</td>
       <td><strong>FrontEnd</strong></td>
-      <td>2024/09 - ongoing</td>
+      <td>2024/09 - 2025/01</td>
     </tr>
     <tr>
       <td>우아한테크코스 프리코스</td>
