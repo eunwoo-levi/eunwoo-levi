@@ -153,9 +153,9 @@
       <td>2024/12 - ongoing </td>
     </tr>
     <tr>
-      <td> AI 실시간 환자 모니터링 서비스 - Google New Year Hackathon </a><br/> Tech Stack: Next.js , Google Gemini API, Typescript, Tailwind </td>
+      <td> AI 실시간 환자 모니터링 서비스 , 최우수상 - Google New Year Hackathon </a><br/> Tech Stack: Next.js , Google Gemini API, Typescript, Tailwind </td>
       <td><strong>Frontend</strong> <br/><br/>  FE:3, BE:3 </td>
-      <td>2024/12 - ongoing </td>
+      <td>2025/01 </td>
     </tr>
   </table>
 </div>
