@@ -133,7 +133,7 @@
       <td>2024/08</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/commercial-game-service/Frontend" target="_blank">대구 상권 부루마블 게임 서비스 Team Project- 2024 대구를 빛내는 해커톤 장려상</a> <br/> Tech Stack: Next.js , Tailwind , Zustand </td>
+      <td><a href="https://github.com/commercial-game-service/Frontend" target="_blank">대구 상권 부루마블 게임 서비스 Team Project- 2024 대구를 빛내는 해커톤, 장려상</a> <br/> Tech Stack: Next.js , Tailwind , Zustand </td>
       <td><strong>Frontend</strong>  <br/><br/>   FE:1, BE:2 </td>
       <td>2024/09 - 2024/09</td>
     </tr>
