@@ -28,7 +28,7 @@
 ***
 
 <div align="center">
-  <h3 style="color: white; margin-bottom: 10px;">🚀 개인 Next.js Portfolio & Tech Blog 🚀</h3>
+  <h3 style="color: white; margin-bottom: 10px;">🚀 Personal Next.js Portfolio & Tech Blog 🚀</h3>
   <a href="https://www.eunwoo-levi.blog" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO & Tech%20Blog-20232A?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Tech Blog" />
   </a>
@@ -93,12 +93,12 @@
       <td>2024/09 - 2025/01</td>
     </tr>
     <tr>
-      <td> 2024 대구를 빛내는 SW Hackathon - 장려상</td>
+      <td> 2024 Daegyeong Region Collegiate SW Hackathon - 장려상</td>
       <td><strong>FrontEnd</strong></td>
       <td>2024/09</td>
     </tr>
     <tr>
-      <td>우아한테크코스 프리코스</td>
+      <td>WoowaTechCourse Free Course</td>
       <td><strong>FrontEnd</strong></td>
       <td>2024/10 - 2024/12</td>
     </tr>
@@ -114,7 +114,7 @@
       <td>2025/01 </td>
     </tr>
     <tr>
-      <td> 우아한테크코스 7th FE - 우아한형제들 (Woowa Bros)</td>
+      <td> WoowaCourse 7th FE - 우아한형제들 (Woowa Bros)</td>
       <td><strong>FrontEnd</strong></td>
       <td>2025/02 - ongoing</td>
 
@@ -131,42 +131,42 @@
       <th>Period</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/Injury-law-assist" target="_blank">AI 산재 챗봇 Team Project- 2024 고용노동 공공데이터 활용 대회</a> <br/> Tech Stack: Next.js , Tailwind</td>
+      <td><a href="https://github.com/Injury-law-assist" target="_blank">AI Industrial Accident Chatbot Team Project - 2024 Employment and Labor Public Data Utilization Competition</a> <br/> Tech Stack: Next.js , Tailwind</td>
       <td><strong>Frontend</strong> <br/><br/>  FE:2, BE:2</td>
       <td>2024/07 - 2024/08</td>
     </tr>
     <tr>
-      <td><a href="https://ecobuddy.life" target="_blank">재활용 홈페이지 Team Project- 대구 환경청 협업 프로젝트</a> <br/> Tech Stack: Next.js , Tailwind , Zustand , MongoDB </td>
+      <td><a href="https://ecobuddy.life" target="_blank">AI Recycling Project - Daegu Environment Government Collaboration </a> <br/> Tech Stack: Next.js , Tailwind , Zustand , MongoDB </td>
       <td><strong>FullStack</strong> <br/><br/>  FE:1, BE:1, AI:1</td>
       <td>2024/07 - 2024/11</td>
     </tr>
     <tr>
-      <td><a href="https://eunwoo-levi.blog" target="_blank">개인 포트폴리오 및 기술 블로그 제작 with Next.js</a> <br/> Tech Stack: Next.js , Tailwind</td>
+      <td><a href="https://eunwoo-levi.blog" target="_blank">Personal Portfolio & Tech Blogs with Next.js</a> <br/> Tech Stack: Next.js , Tailwind</td>
       <td><strong>Frontend</strong></td>
       <td>2024/08</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/commercial-game-service/Frontend" target="_blank">대구 상권 부루마블 게임 서비스 Team Project- 2024 대구를 빛내는 해커톤, 장려상</a> <br/> Tech Stack: Next.js , Tailwind , Zustand </td>
+      <td><a href="https://github.com/commercial-game-service/Frontend" target="_blank">Daegu Commercial District Blue Marble Game Service - 2024 Daegyeong Region Collegiate Hackathon, 장려상</a> <br/> Tech Stack: Next.js , Tailwind , Zustand </td>
       <td><strong>Frontend</strong>  <br/><br/>   FE:1, BE:2 </td>
       <td>2024/09 - 2024/09</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/eunwoo-levi/architect-web" target="_blank">건축사 웹페이지 외주 제작</a> <br/> Tech Stack: Next.js , Tailwind , MongoDB </td>
+      <td><a href="https://github.com/eunwoo-levi/architect-web" target="_blank">Architect Web Application - Outsourcing Development</a> <br/> Tech Stack: Next.js , Tailwind , MongoDB </td>
       <td><strong>FullStack</strong></td>
       <td>2024/09 - 2024/11</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/AI-Food-Analysis-Google-Challengethon" target="_blank">AI 식습관 관리 시스템 - Google Vision ChallengeThon</a> <br/> Tech Stack: Next.js , Tailwind , Zustand         </td>
+      <td><a href="https://github.com/AI-Food-Analysis-Google-Challengethon" target="_blank">AI Dietary Management System - Google Vision ChallengeThon</a> <br/> Tech Stack: Next.js , Tailwind , Zustand         </td>
       <td><strong>Frontend</strong> <br/><br/>  FE:2, BE:2,<br/>Designer:1</td>
       <td>2024/11 </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/debate-timer/debate-timer-fe" target="_blank"> 토론 타임 키핑을 위한 타이머 서비스 </a><br/> Tech Stack: React , Vite, Typescript, Tailwind , Storybook, Vitest </td>
+      <td><a href="https://github.com/debate-timer/debate-timer-fe" target="_blank">Timer Service for Debate Timekeeping </a><br/> Tech Stack: React , Vite, Typescript, Tailwind , Storybook, Vitest </td>
       <td><strong>Frontend</strong> <br/><br/>  FE:3, BE:3 </td>
       <td>2024/12 - ongoing </td>
     </tr>
     <tr>
-      <td> AI 실시간 환자 모니터링 서비스, 최우수상 - Google New Year Hackathon </a><br/> Tech Stack: Next.js , Google Gemini API, MongoDB, Typescript, Tailwind </td>
+      <td>AI Real-time Patient Monitoring Service, 최우수상 - Google New Year Hackathon </a><br/> Tech Stack: Next.js , Google Gemini API, MongoDB, Typescript, Tailwind </td>
       <td><strong>FullStack</strong> <br/><br/>  FE:2, BE:2, AI:1 </td>
       <td>2025/01 </td>
     </tr>
