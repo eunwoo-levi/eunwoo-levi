@@ -103,8 +103,8 @@
       <td>2024/10 - 2024/12</td>
     </tr>
     <tr>
-      <td>AI Quiz EduPrompt Service - FE & PM - (주)멜라카 현장실습</td>
-      <td><strong>FrontEnd</strong></td>
+      <td>AI Quiz EduPrompt Service - (주)멜라카 현장실습</td>
+      <td><strong>FrontEnd & PM</strong></td>
       <td>2024/12 - 2025/2</td>
     </tr>
         </tr>
