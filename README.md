@@ -93,6 +93,11 @@
       <td>2024/09 - 2025/01</td>
     </tr>
     <tr>
+      <td> 2024 대구를 빛내는 SW 해커톤 - 장려상</td>
+      <td><strong>FrontEnd</strong></td>
+      <td>2024/09</td>
+    </tr>
+    <tr>
       <td>우아한테크코스 프리코스</td>
       <td><strong>FrontEnd</strong></td>
       <td>2024/10 - 2024/12</td>
@@ -102,12 +107,20 @@
       <td><strong>FrontEnd</strong></td>
       <td>2024/12 - 2025/2</td>
     </tr>
+        </tr>
+    <tr>
+      <td> Google New Year Hackathon - 최우수상 </td>
+      <td><strong>FrontEnd (FullStack) </strong></td>
+      <td>2025/1 </td>
+    </tr>
     <tr>
       <td> 우아한테크코스 7th FE - 우아한형제들 (Woowa Bros)</td>
       <td><strong>FrontEnd</strong></td>
       <td>2025/2 - ongoing</td>
-    </tr>
+
   </table>
+
+  
 
   
   <h3>💼 Project Experience</h3>
