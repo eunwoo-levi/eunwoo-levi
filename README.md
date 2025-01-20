@@ -111,12 +111,12 @@
     <tr>
       <td> Google New Year Hackathon - 최우수상 </td>
       <td><strong>FrontEnd (FullStack) </strong></td>
-      <td>2025/1 </td>
+      <td>2025/01 </td>
     </tr>
     <tr>
       <td> 우아한테크코스 7th FE - 우아한형제들 (Woowa Bros)</td>
       <td><strong>FrontEnd</strong></td>
-      <td>2025/2 - ongoing</td>
+      <td>2025/02 - ongoing</td>
 
   </table>
 
