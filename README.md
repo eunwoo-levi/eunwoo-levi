@@ -109,7 +109,7 @@
     </tr>
         </tr>
     <tr>
-      <td> Google New Year Hackathon - 🥈최우수상 </td>
+      <td> Google New Year Hackathon - 🥈2rd (최우수상) </td>
       <td><strong>FrontEnd (FullStack) </strong></td>
       <td>2025/01 </td>
     </tr>
