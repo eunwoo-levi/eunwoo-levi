@@ -93,7 +93,7 @@
       <td>2024/09 - 2025/01</td>
     </tr>
     <tr>
-      <td> 2024 Daegyeong Region Collegiate SW Hackathon 4th place<br/> 🥉장려상</td>
+      <td> 2024 Daegyeong Region Collegiate SW Hackathon - 4th place<br/> 🥉장려상</td>
       <td><strong>FrontEnd</strong></td>
       <td>2024/09</td>
     </tr>
@@ -109,7 +109,7 @@
     </tr>
         </tr>
     <tr>
-      <td> Google New Year Hackathon 2rd place <br/> 🥈최우수상</td>
+      <td> Google New Year Hackathon - 2rd place <br/> 🥈최우수상</td>
       <td><strong>FrontEnd (FullStack) </strong></td>
       <td>2025/01 </td>
     </tr>
