@@ -163,13 +163,15 @@
       <td>2024/12 - ongoing </td>
     </tr>
     <tr>
-      <td>AI Real-time Patient Monitoring Service, 최우수상 - Google New Year Hackathon </a><br/> Tech Stack: Next.js , Google Gemini API, MongoDB, Typescript, Tailwind </td>
+      <td><a href="https://drive.google.com/file/d/1lJTyVYMgg1W0HQbOAtVb8eMCiaIqxrwT/view" target="_blank">AI Real-time Patient Monitoring Service, 최우수상 - Google New Year Hackathon </a><br/> Tech Stack: Next.js , Google Gemini API, MongoDB, Typescript, Tailwind </td>
       <td><strong>FullStack</strong> <br/><br/>  FE:2, BE:2, AI:1 </td>
       <td>2025/01 </td>
     </tr>
   </table>
 </div>
 <br/>
+
+
 
 <div align="center">
   <table>
