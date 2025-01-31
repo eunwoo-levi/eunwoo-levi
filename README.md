@@ -128,12 +128,12 @@
       <th>Period</th>
     </tr>
     <tr>
-      <td><a href="https://github.com/Injury-law-assist" target="_blank">AI Industrial Accident Chatbot Team Project - 2024 Employment and Labor Public Data Utilization Competition</a> <br/> Tech Stack: Next.js , Tailwind</td>
+      <td><a href="https://github.com/Injury-law-assist" target="_blank">AI Industrial Accident Chatbot</a> - 2024 Employment and Labor Public Data Utilization Competition <br/> Tech Stack: Next.js , Tailwind</td>
       <td><strong>Frontend</strong> <br/><br/>  FE:2, BE:2</td>
       <td>2024/07 - 2024/08</td>
     </tr>
     <tr>
-      <td><a href="https://ecobuddy.life" target="_blank">AI Recycling Project - Daegu Environment Government Collaboration </a> <br/> Tech Stack: Next.js , Tailwind , Zustand , MongoDB </td>
+      <td><a href="https://ecobuddy.life" target="_blank">AI Recycling Web Application </a> - Daegu Environment Government Collaboration  <br/> Tech Stack: Next.js , Tailwind , Zustand , MongoDB </td>
       <td><strong>FullStack</strong> <br/><br/>  FE:1, BE:1, AI:1</td>
       <td>2024/07 - 2024/11</td>
     </tr>
@@ -143,17 +143,17 @@
       <td>2024/08</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/commercial-game-service/Frontend" target="_blank">Daegu Commercial District Blue Marble Game Service - 2024 대경권 SW Hackathon</a> , 장려상 <br/> Tech Stack: Next.js , Tailwind , Zustand </td>
+      <td><a href="https://github.com/commercial-game-service/Frontend" target="_blank">Daegu Commercial District Blue Marble Game Service</a> - 2024 대경권 SW Hackathon, 장려상 <br/> Tech Stack: Next.js , Tailwind , Zustand </td>
       <td><strong>Frontend</strong>  <br/><br/>   FE:1, BE:2 </td>
       <td>2024/09 - 2024/09</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/eunwoo-levi/architect-web" target="_blank">Architect Web Application - 외주 개발</a> <br/> Tech Stack: Next.js , Tailwind , MongoDB </td>
+      <td><a href="https://github.com/eunwoo-levi/architect-web" target="_blank">Architect Web Application</a> - 외주 개발 <br/> Tech Stack: Next.js , Tailwind , MongoDB </td>
       <td><strong>FullStack</strong></td>
       <td>2024/09 - 2024/11</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/AI-Food-Analysis-Google-Challengethon" target="_blank">AI Dietary Management System - Google Vision ChallengeThon</a> <br/> Tech Stack: Next.js , Tailwind , Zustand         </td>
+      <td><a href="https://github.com/AI-Food-Analysis-Google-Challengethon" target="_blank">AI Dietary Management System</a> - Google Vision ChallengeThon <br/> Tech Stack: Next.js , Tailwind , Zustand         </td>
       <td><strong>Frontend</strong> <br/><br/>  FE:2, BE:2,<br/>Designer:1</td>
       <td>2024/11 </td>
     </tr>
@@ -163,7 +163,7 @@
       <td>2024/12 - ongoing </td>
     </tr>
     <tr>
-      <td><a href="https://drive.google.com/file/d/1lJTyVYMgg1W0HQbOAtVb8eMCiaIqxrwT/view" target="_blank">AI Real-time Patient Monitoring Service</a> - Google New Year Hackathon , 최우수상<br/> Tech Stack: Next.js , Google Gemini API, MongoDB, Typescript, Tailwind </td>
+      <td><a href="https://drive.google.com/file/d/1lJTyVYMgg1W0HQbOAtVb8eMCiaIqxrwT/view" target="_blank">AI Real-time Patient Monitoring Service</a> - Google New Year Hackathon, 최우수상<br/> Tech Stack: Next.js , Google Gemini API, MongoDB, Typescript, Tailwind </td>
       <td><strong>FullStack</strong> <br/><br/>  FE:2, BE:2, AI:1 </td>
       <td>2025/01 </td>
     </tr>
