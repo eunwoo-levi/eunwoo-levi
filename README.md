@@ -148,7 +148,7 @@
       <td>2024/09 - 2024/09</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/eunwoo-levi/architect-web" target="_blank">Architect Web Application - 외주</a> <br/> Tech Stack: Next.js , Tailwind , MongoDB </td>
+      <td><a href="https://github.com/eunwoo-levi/architect-web" target="_blank">Architect Web Application - 외주 개발</a> <br/> Tech Stack: Next.js , Tailwind , MongoDB </td>
       <td><strong>FullStack</strong></td>
       <td>2024/09 - 2024/11</td>
     </tr>
