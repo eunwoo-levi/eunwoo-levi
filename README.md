@@ -90,7 +90,7 @@
       <td>2024/09 - 2025/01</td>
     </tr>
     <tr>
-      <td>2024 대경권 SW Hackathon <br/> - 4th place 🥉장려상</td>
+      <td>2024 대구를 빛내는 SW해커톤 우수상 <br/> - 4th place 🥉장려상</td>
       <td><strong>FrontEnd</strong></td>
       <td>2024/09</td>
     </tr>
@@ -100,7 +100,7 @@
       <td>2024/10 - 2024/12</td>
     </tr>
     <tr>
-      <td>AI Quiz EduPrompt Service - AI Melaka Co., Ltd. 현장실습(Internship)</td>
+      <td>AI Melaka Co., Ltd. 현장실습(Internship) - FrontEnd & PM</td>
       <td><strong>FrontEnd & PM</strong></td>
       <td>2024/12 - 2025/2</td>
     </tr>
