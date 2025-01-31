@@ -90,7 +90,7 @@
       <td>2024/09 - 2025/01</td>
     </tr>
     <tr>
-      <td>2024 대구를 빛내는 SW해커톤 🥉장려상</td>
+      <td>2024 대구를 빛내는 SW Hackathon 🥉장려상</td>
       <td><strong>FrontEnd</strong></td>
       <td>2024/09</td>
     </tr>
