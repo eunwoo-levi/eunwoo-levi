@@ -90,7 +90,7 @@
       <td>2024/09 - 2025/01</td>
     </tr>
     <tr>
-      <td> 2024 Daegyeong Region Collegiate SW Hackathon <br/> - 4th place 🥉장려상</td>
+      <td>2024 대경권 SW Hackathon <br/> - 4th place 🥉장려상</td>
       <td><strong>FrontEnd</strong></td>
       <td>2024/09</td>
     </tr>
@@ -100,7 +100,7 @@
       <td>2024/10 - 2024/12</td>
     </tr>
     <tr>
-      <td>AI Quiz EduPrompt Service - AI Melaka Co., Ltd. Internship</td>
+      <td>AI Quiz EduPrompt Service - AI Melaka Co., Ltd. 현장실습(Internship)</td>
       <td><strong>FrontEnd & PM</strong></td>
       <td>2024/12 - 2025/2</td>
     </tr>
@@ -143,7 +143,7 @@
       <td>2024/08</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/commercial-game-service/Frontend" target="_blank">Daegu Commercial District Blue Marble Game Service - 2024 Daegyeong Region Collegiate Hackathon, 장려상</a> <br/> Tech Stack: Next.js , Tailwind , Zustand </td>
+      <td><a href="https://github.com/commercial-game-service/Frontend" target="_blank">Daegu Commercial District Blue Marble Game Service - 2024 대경권 SW Hackathon, 장려상</a> <br/> Tech Stack: Next.js , Tailwind , Zustand </td>
       <td><strong>Frontend</strong>  <br/><br/>   FE:1, BE:2 </td>
       <td>2024/09 - 2024/09</td>
     </tr>
