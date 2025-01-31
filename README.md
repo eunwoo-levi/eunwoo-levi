@@ -143,7 +143,7 @@
       <td>2024/08</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/commercial-game-service/Frontend" target="_blank">Daegu Commercial District Blue Marble Game Service - 2024 대경권 SW Hackathon, 장려상</a> <br/> Tech Stack: Next.js , Tailwind , Zustand </td>
+      <td><a href="https://github.com/commercial-game-service/Frontend" target="_blank">Daegu Commercial District Blue Marble Game Service - 2024 대경권 SW Hackathon</a> , 장려상 <br/> Tech Stack: Next.js , Tailwind , Zustand </td>
       <td><strong>Frontend</strong>  <br/><br/>   FE:1, BE:2 </td>
       <td>2024/09 - 2024/09</td>
     </tr>
@@ -163,7 +163,7 @@
       <td>2024/12 - ongoing </td>
     </tr>
     <tr>
-      <td><a href="https://drive.google.com/file/d/1lJTyVYMgg1W0HQbOAtVb8eMCiaIqxrwT/view" target="_blank">AI Real-time Patient Monitoring Service, 최우수상 - Google New Year Hackathon </a><br/> Tech Stack: Next.js , Google Gemini API, MongoDB, Typescript, Tailwind </td>
+      <td><a href="https://drive.google.com/file/d/1lJTyVYMgg1W0HQbOAtVb8eMCiaIqxrwT/view" target="_blank">AI Real-time Patient Monitoring Service</a> - Google New Year Hackathon , 최우수상<br/> Tech Stack: Next.js , Google Gemini API, MongoDB, Typescript, Tailwind </td>
       <td><strong>FullStack</strong> <br/><br/>  FE:2, BE:2, AI:1 </td>
       <td>2025/01 </td>
     </tr>
