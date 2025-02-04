@@ -80,7 +80,7 @@
       <td>Sep 6th 2021 - Mar 5th 2023</td>
     </tr>
     <tr>
-      <td>Google Developers Group - KNU 4th FE</td>
+      <td>Google Developers Group - FE</td>
       <td><strong>FrontEnd</strong></td>
       <td>2024/09 - ongoing</td>
     </tr>
