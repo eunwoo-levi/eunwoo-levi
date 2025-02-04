@@ -159,7 +159,7 @@
     </tr>
     <tr>
       <td><a href="https://github.com/debate-timer/debate-timer-fe" target="_blank">Timer Service for Debate Timekeeping </a><br/> Tech Stack: React , Vite, Typescript, Tailwind , Storybook, Vitest </td>
-      <td><strong>Frontend</strong> <br/><br/>  FE:3, BE:3 </td>
+      <td><strong>Frontend</strong> <br/><br/>  FE:3, BE:3,<br/>Designer:1 </td>
       <td>2024/12 - ongoing </td>
     </tr>
     <tr>
