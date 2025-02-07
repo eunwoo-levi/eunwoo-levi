@@ -16,7 +16,7 @@
 
 > Major: **Computer Science** ( Double Major: Electronic Engineering )
 
-> Served in **Korean Augmentation To the United States Army** ( KATUSA )
+> Served in **Korean Augmentation To the United States Army** ( **KATUSA** )
 
 > **Google Developers Group** 4th FE
 
