@@ -82,7 +82,7 @@
     <tr>
       <td>Google Developers Group - FE</td>
       <td><strong>FrontEnd</strong></td>
-      <td>2024/09 - ongoing</td>
+      <td>2024/09 - 2024/12</td>
     </tr>
     <tr>
       <td>React Team Study - Deep Dive</td>
@@ -160,7 +160,7 @@
     <tr>
       <td><a href="https://github.com/debate-timer/debate-timer-fe" target="_blank">Timer Service for Debate Timekeeping </a><br/> Tech Stack: React , Vite, Typescript, Tailwind , Storybook, Vitest </td>
       <td><strong>Frontend</strong> <br/><br/>  FE:3, BE:3,<br/>Designer:1 </td>
-      <td>2024/12 - 2025/02 </td>
+      <td>2024/12 - 2025/03 </td>
     </tr>
     <tr>
       <td><a href="https://drive.google.com/file/d/1lJTyVYMgg1W0HQbOAtVb8eMCiaIqxrwT/view" target="_blank">AI Real-time Patient Monitoring Service</a> - Google New Year Hackathon, 최우수상<br/> Tech Stack: Next.js , Google Gemini API, MongoDB, Typescript, Tailwind </td>
