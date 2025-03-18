@@ -80,7 +80,7 @@
     <tr>
       <td>Google Developers Group - FE</td>
       <td><strong>FrontEnd</strong></td>
-      <td>2024/09 - 2024/12</td>
+      <td>2024/09 - onGoing</td>
     </tr>
     <tr>
       <td>React Team Study - Deep Dive</td>
