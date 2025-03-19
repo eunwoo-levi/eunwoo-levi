@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=1E95D2&repeat=false&random=false&width=480&lines=함께 일하고 싶은 FrontEnd Engineer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=1E95D2&repeat=false&random=false&width=480&lines=함께%20일하고%20싶은%20FrontEnd%20Engineer" alt="Typing SVG" />
   <br/>
-<div>🌍 Fluent in English, enabling effective collaboration on international projects 🌍 </div>  <br/>
+  <div>🌍 Fluent in English, enabling effective collaboration on international projects 🌍 </div>  <br/>
   
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunwoo-levi&count_bg=%23000000&title_bg=%23555555&icon=react.svg&icon_color=%2362B5DF&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunwoo-levi&count_bg=%23000000&title_bg=%23555555&icon=react.svg&icon_color=%2362B5DF&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
 # Introduction
@@ -25,7 +25,7 @@
 <div align="center">
   <h3 style="color: white; margin-bottom: 10px;">🚀 Personal Next.js Portfolio & Tech Blog 🚀</h3>
   <a href="https://www.eunwoo-levi.blog" target="_blank">
-    <img src="https://img.shields.io/badge/PORTFOLIO & Tech%20Blog-20232A?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Tech Blog" />
+    <img src="https://img.shields.io/badge/PORTFOLIO%20&%20Tech%20Blog-20232A?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Tech Blog" />
   </a>
 
   <br/>
@@ -37,7 +37,7 @@
 ***
 
 <div align="center">
-<h3>🛠️ Tech Stacks </h3>
+  <h3>🛠️ Tech Stacks </h3>
   <p>
     <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
     <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next JS" />
@@ -52,10 +52,10 @@
     <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> <br/>
     <img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook" />
     <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" />
-    <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white alt="GitHub Actions" />
-    <img src="https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white alt="Amazon S3" />
-    <img src="https://img.shields.io/badge/CloudFront-FF9900?style=for-the-badge&logo=amazons3&logoColor=white alt="CloudFront" />
-</p>
+    <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
+    <img src="https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white" alt="Amazon S3" />
+    <img src="https://img.shields.io/badge/CloudFront-FF9900?style=for-the-badge&logo=amazons3&logoColor=white" alt="CloudFront" />
+  </p>
 </div>
 
 ***
@@ -102,7 +102,6 @@
       <td><strong>FrontEnd & PM</strong></td>
       <td>2024/12 - 2025/2</td>
     </tr>
-        </tr>
     <tr>
       <td> Google New Year Hackathon 🥈최우수상</td>
       <td><strong>FrontEnd (FullStack) </strong></td>
@@ -112,12 +111,9 @@
       <td> WoowaCourse 7th FE - 우아한형제들 (Woowa Bros)</td>
       <td><strong>FrontEnd</strong></td>
       <td>2025/02 - ongoing</td>
-
+    </tr>
   </table>
 
-  
-
-  
   <h3>💼 Project Experience</h3>
   <table>
     <tr>
@@ -151,7 +147,7 @@
       <td>2024/09 - 2024/11</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/AI-Food-Analysis-Google-Challengethon" target="_blank">AI Dietary Management System</a> - Google Vision ChallengeThon <br/> Tech Stack: Next.js , Tailwind , Zustand         </td>
+      <td><a href="https://github.com/AI-Food-Analysis-Google-Challengethon" target="_blank">AI Dietary Management System</a> - Google Vision ChallengeThon <br/> Tech Stack: Next.js , Tailwind , Zustand </td>
       <td><strong>Frontend</strong> <br/><br/>  FE:2, BE:2,<br/>Designer:1</td>
       <td>2024/11 </td>
     </tr>
@@ -168,8 +164,6 @@
   </table>
 </div>
 <br/>
-
-
 
 <div align="center">
   <table>
