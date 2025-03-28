@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=1E95D2&repeat=false&random=false&width=480&lines=함께%20일하고%20싶은%20FrontEnd%20Engineer" alt="Typing SVG" />
   <br/>
   <div>🌍 Fluent in English, enabling effective collaboration on international projects 🌍 </div>  <br/>
-  
-  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Feunwoo-levi&count_bg=%23000000&title_bg=%23555555&icon=react.svg&icon_color=%2362B5DF&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
 </div>
 
 # Introduction
