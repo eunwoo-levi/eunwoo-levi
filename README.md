@@ -1,6 +1,6 @@
+## 함께 일하고 싶은 개발자
+
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=1E95D2&repeat=false&random=false&width=480&lines=함께%20일하고%20싶은%20FrontEnd%20Engineer" alt="Typing SVG" />
-  <br/>
   <div>🌍 Fluent in English, enabling effective collaboration on international projects 🌍 </div>  <br/>
 </div>
 
