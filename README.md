@@ -21,7 +21,7 @@
 ***
 
 <div align="center">
-  <h3 style="color: white; margin-bottom: 10px;">🚀 Personal Next.js Portfolio & Tech Blog 🚀</h3>
+  <h3 style="color: white; margin-bottom: 10px;">🚀 Personal Next.js Tech Blog 🚀</h3>
   <a href="https://www.eunwoo-levi.blog" target="_blank">
     <img src="https://img.shields.io/badge/PORTFOLIO%20&%20Tech%20Blog-20232A?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Tech Blog" />
   </a>
