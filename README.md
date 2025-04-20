@@ -82,11 +82,6 @@
       <td>2024/09 - onGoing</td>
     </tr>
     <tr>
-      <td>React Team Study - Deep Dive</td>
-      <td><strong>FrontEnd</strong></td>
-      <td>2024/09 - 2025/01</td>
-    </tr>
-    <tr>
       <td>2024 대구를 빛내는 SW Hackathon 🥉장려상</td>
       <td><strong>FrontEnd</strong></td>
       <td>2024/09</td>
