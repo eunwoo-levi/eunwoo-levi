@@ -122,7 +122,7 @@
     </tr>
     <tr>
       <td><a href="https://ecobuddy.life" target="_blank">AI Recycling Web Application </a> - Daegu Environment Government Collaboration  <br/> Tech Stack: Next.js , Tailwind , Zustand , MongoDB </td>
-      <td><strong>FullStack</strong> <br/><br/>  FE:1, BE:1, AI:1</td>
+      <td><strong>FullStack</strong></td>
       <td>2024/07 - 2024/11</td>
     </tr>
     <tr>
@@ -136,8 +136,8 @@
       <td>2024/09 - 2024/09</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/eunwoo-levi/architect-web" target="_blank">Architect Web Application</a> - 외주 개발 <br/> Tech Stack: Next.js , Tailwind , MongoDB </td>
-      <td><strong>FullStack</strong></td>
+      <td><a href="https://github.com/eunwoo-levi/architect-web" target="_blank">Architect Web Application</a> - 외주 개발 <br/> Tech Stack: Next.js , Tailwind </td>
+      <td><strong>Frontend</strong></td>
       <td>2024/09 - 2024/11</td>
     </tr>
     <tr>
