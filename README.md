@@ -121,7 +121,7 @@
       <td>2024/07 - 2024/08</td>
     </tr>
     <tr>
-      <td><a href="https://ecobuddy.life" target="_blank">AI Recycling Web Application </a> - Daegu Environment Government Collaboration  <br/> Tech Stack: Next.js , Tailwind , Zustand , MongoDB </td>
+      <td><a href="https://github.com/AI-Recycling-Service-Ecobuddy/FullStack" target="_blank">AI Recycling Web Application </a> - Daegu Environment Government Collaboration  <br/> Tech Stack: Next.js , Tailwind , Zustand , MongoDB </td>
       <td><strong>FullStack</strong></td>
       <td>2024/07 - 2024/11</td>
     </tr>
