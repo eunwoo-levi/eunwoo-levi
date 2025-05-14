@@ -106,6 +106,11 @@
       <td><strong>FrontEnd</strong></td>
       <td>2025/02 - ongoing</td>
     </tr>
+    <tr>
+      <td> [Contributed to the official React Docs](https://github.com/reactjs/ko.react.dev/pull/1194#event-17655978562) </td>
+      <td><strong>FrontEnd</strong></td>
+      <td>2025/02 - ongoing</td>
+    </tr>
   </table>
 
   <h3>💼 Project Experience</h3>
