@@ -109,7 +109,7 @@
     <tr>
       <td> Contributed to the <a href="https://github.com/reactjs/ko.react.dev/pull/1194#event-17655978562">Official React Documentation</a></td>
       <td><strong>FrontEnd</strong></td>
-      <td>2025/02 - ongoing</td>
+      <td>2025/05</td>
     </tr>
   </table>
 
@@ -158,6 +158,11 @@
     <tr>
       <td><a href="https://drive.google.com/file/d/1lJTyVYMgg1W0HQbOAtVb8eMCiaIqxrwT/view" target="_blank">AI Real-time Patient Monitoring Service</a> - Google New Year Hackathon, 최우수상<br/> Tech Stack: Next.js , Google Gemini API, MongoDB, Typescript, Tailwind </td>
       <td><strong>FullStack</strong> <br/><br/>  FE:2, BE:2, AI:1 </td>
+      <td>2025/01 </td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/GDG-on-Campus-KNU/4th-SC-Team-5-FE" target="_blank">VitalTrip — A travel-ready emergency response service for peace of mind anywhere.Tech Stack: Next.js , Google Gemini API, Typescript, Tailwind </td>
+      <td><strong>Frontend</strong> <br/><br/>  FE:2, BE:2 </td>
       <td>2025/01 </td>
     </tr>
   </table>
