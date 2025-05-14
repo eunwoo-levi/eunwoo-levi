@@ -82,7 +82,7 @@
       <td>2024/09 - onGoing</td>
     </tr>
     <tr>
-      <td>2024 대구를 빛내는 SW Hackathon 🥉</td>
+      <td>2024 Daehyeong Region Collegiate SW Hackathon 🥉</td>
       <td><strong>FrontEnd</strong></td>
       <td>2024/09</td>
     </tr>
