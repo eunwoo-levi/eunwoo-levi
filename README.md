@@ -107,7 +107,7 @@
       <td>2025/02 - ongoing</td>
     </tr>
     <tr>
-      <td> Contributed to the <a href="https://github.com/reactjs/ko.react.dev/pull/1194#event-17655978562">Official React Documentation</a></td>
+      <td> Contributed to the <a href="https://github.com/reactjs/ko.react.dev/pull/1194#event-17655978562">Official ReactJS Documentation</a></td>
       <td><strong>FrontEnd</strong></td>
       <td>2025/05</td>
     </tr>
