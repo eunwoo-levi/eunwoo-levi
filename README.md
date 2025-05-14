@@ -161,9 +161,9 @@
       <td>2025/01 </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/GDG-on-Campus-KNU/4th-SC-Team-5-FE" target="_blank">VitalTrip — A travel-ready emergency response service for peace of mind anywhere.Tech Stack: Next.js , Google Gemini API, Typescript, Tailwind </td>
+      <td><a href="https://github.com/GDG-on-Campus-KNU/4th-SC-Team-5-FE" target="_blank">VitalTrip — A travel-ready emergency response service for peace of mind anywhere.</a> <br/> Tech Stack: Next.js , Google Gemini API, Typescript, Tailwind </td>
       <td><strong>Frontend</strong> <br/><br/>  FE:2, BE:2 </td>
-      <td>2025/01 </td>
+      <td>2025/05 </td>
     </tr>
   </table>
 </div>
