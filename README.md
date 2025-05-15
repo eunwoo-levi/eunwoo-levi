@@ -102,7 +102,15 @@
       <td>2025/02 - ongoing</td>
     </tr>
     <tr>
-      <td> Contributed to the <a href="https://github.com/reactjs/ko.react.dev/pull/1194#event-17655978562">Official ReactJS Documentation</a></td>
+      <td> Contributed to the <a href="https://github.com/reactjs/ko.react.dev/pull/1194#event-17655978562">Official ReactJS Documentation - useActionState</a>
+                              <a href="https://github.com/reactjs/ko.react.dev/pull/1194#event-17655978562"> (+ PR2)</a>
+      </td>
+      <td><strong>FrontEnd</strong></td>
+      <td>2025/05</td>
+    </tr>
+    <tr>
+      <td> Contributed to the <a href="https://github.com/reactjs/ko.react.dev/pull/1194#event-17655978562">Official ReactJS Documentation - preinit</a>
+      </td>
       <td><strong>FrontEnd</strong></td>
       <td>2025/05</td>
     </tr>
