@@ -114,6 +114,12 @@
       <td><strong>FrontEnd</strong></td>
       <td>2025/05</td>
     </tr>
+        <tr>
+      <td> Contributed to the <a href="https://github.com/reactjs/ko.react.dev/pull/1198">Official ReactJS Documentation - preinitModule</a>
+      </td>
+      <td><strong>FrontEnd</strong></td>
+      <td>2025/05</td>
+    </tr>
   </table>
 
   <h3>💼 Project Experience</h3>
