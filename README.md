@@ -113,12 +113,19 @@
       <td><strong>FrontEnd</strong></td>
       <td>2025/05</td>
     </tr>
-        <tr>
+    <tr>
       <td> Contributed to the <a href="https://github.com/reactjs/ko.react.dev/pull/1198">Official ReactJS Documentation - preinitModule</a>
       </td>
       <td><strong>FrontEnd</strong></td>
       <td>2025/05</td>
     </tr>
+    <tr>
+      <td> Contributed to the <a href="https://github.com/toss/frontend-fundamentals/pull/267#event-17736971625">Toss - Frontend Fundamentals</a>
+      </td>
+      <td><strong>FrontEnd</strong></td>
+      <td>2025/05</td>
+    </tr>
+
   </table>
 
   <h3>💼 Project Experience</h3>
