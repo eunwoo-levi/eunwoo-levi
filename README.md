@@ -163,7 +163,7 @@
       <td>2025/01 </td>
     </tr>
     <tr>
-      <td><a href="https://github.com/GDG-on-Campus-KNU/4th-SC-Team-5-FE" target="_blank">VitalTrip — AI travel-ready emergency response service</a> <br/> Tech Stack: Next.js , Google Cloud API, Typescript, Tailwind </td>
+      <td><a href="https://github.com/GDG-on-Campus-KNU/4th-SC-Team-5-FE" target="_blank">VitalTrip — Google AI travel-ready emergency response service</a> <br/> Tech Stack: Next.js , Google Cloud API, Typescript, Tailwind </td>
       <td><strong>Frontend</strong> <br/><br/>  FE:2, BE:2 </td>
       <td>2025/05 </td>
     </tr>
