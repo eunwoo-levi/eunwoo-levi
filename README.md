@@ -186,6 +186,11 @@
       <td><strong>Frontend</strong> <br/><br/>  FE:2, BE:2 </td>
       <td>2025/05 </td>
     </tr>
+    <tr>
+      <td><a href="https://crew-wiki.site/wiki/%EB%8C%80%EB%AC%B8" target="_blank">CrewWiki - Woowacourse Wikipedia Community Service</a> <br/> Tech Stack: Next.js, Tailwind, Typescript, AWS EC2, S3, CloudFront </td>
+      <td><strong>Frontend</strong> <br/><br/>  FE:5, BE:6 </td>
+      <td>2025/05 </td>
+    </tr>
   </table>
 </div>
 <br/>
