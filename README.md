@@ -101,26 +101,7 @@
       <td>2025/02 - ongoing</td>
     </tr>
     <tr>
-      <td> Contributed to the <a href="https://github.com/reactjs/ko.react.dev/pull/1194#event-17655978562">Official ReactJS Documentation - useActionState</a>
-                              <a href="https://github.com/reactjs/ko.react.dev/pull/1196"> (+ PR2)</a>
-      </td>
-      <td><strong>FrontEnd</strong></td>
-      <td>2025/05</td>
-    </tr>
-    <tr>
-      <td> Contributed to the <a href="https://github.com/reactjs/ko.react.dev/pull/1197">Official ReactJS Documentation - preinit</a>
-      </td>
-      <td><strong>FrontEnd</strong></td>
-      <td>2025/05</td>
-    </tr>
-    <tr>
-      <td> Contributed to the <a href="https://github.com/reactjs/ko.react.dev/pull/1198">Official ReactJS Documentation - preinitModule</a>
-      </td>
-      <td><strong>FrontEnd</strong></td>
-      <td>2025/05</td>
-    </tr>
-    <tr>
-      <td> Contributed to the <a href="https://github.com/reactjs/ko.react.dev/pull/1202">Official ReactJS Documentation - useCallback</a>
+      <td> Contributed to the Official ReactJS Documentation <a href="https://github.com/reactjs/ko.react.dev/pull/1194#event-17655978562">useActionState</a>, <a href="https://github.com/reactjs/ko.react.dev/pull/1196"> (+ PR2)</a>, <a href="https://github.com/reactjs/ko.react.dev/pull/1197">preinit</a>, <a href="https://github.com/reactjs/ko.react.dev/pull/1198">preinitModule</a>, <a href="https://github.com/reactjs/ko.react.dev/pull/1202">useCallback</a>
       </td>
       <td><strong>FrontEnd</strong></td>
       <td>2025/05</td>
