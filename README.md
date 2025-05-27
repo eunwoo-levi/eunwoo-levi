@@ -78,7 +78,7 @@
     <tr>
       <td>Google Developers Group - FE</td>
       <td><strong>FrontEnd</strong></td>
-      <td>2024/09 - onGoing</td>
+      <td>2024/09 - ongoing</td>
     </tr>
     <tr>
       <td>2024 Daehyeong Region Collegiate SW Hackathon 🥉</td>
@@ -170,7 +170,7 @@
     <tr>
       <td><a href="https://crew-wiki.site/wiki/%EB%8C%80%EB%AC%B8" target="_blank">CrewWiki - Woowacourse Wikipedia Community Service</a> <br/> Tech Stack: Next.js, Tailwind, Typescript, AWS EC2, S3, CloudFront </td>
       <td><strong>Frontend</strong> <br/><br/>  FE:5, BE:6 </td>
-      <td>2025/05 ~ onGoing </td>
+      <td>2025/05 ~ ongoing </td>
     </tr>
   </table>
 </div>
