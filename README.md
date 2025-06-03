@@ -42,22 +42,16 @@
 - WoowaCourse 7th FE - **Woowa Bros.** , 2025/02 - ongoing
 - 2025 **Google Asia-Pacific Solution Challenge** - Top 10 , 2025/05
 
-<br/>
-
 ## 📌 Contribution
 
 - the Official **[ReactJS](https://react.dev)** Documentation - <a href="https://github.com/reactjs/ko.react.dev/pull/1194#event-17655978562">useActionState</a>, <a href="https://github.com/reactjs/ko.react.dev/pull/1196"> (+2)</a>, <a href="https://github.com/reactjs/ko.react.dev/pull/1197">preinit</a>, <a href="https://github.com/reactjs/ko.react.dev/pull/1198">preinitModule</a>, <a href="https://github.com/reactjs/ko.react.dev/pull/1202">useCallback</a>
 - **Toss**, [Frontend Fundamental](https://frontend-fundamentals.com/bundling) - <a href="https://github.com/toss/frontend-fundamentals/pull/267#event-17736971625">Rollup</a>
-
-<br/>
 
 ## 🏆 Awards
 
 - 2024 **Daehyeong Region Collegiate SW Hackathon** 🥉
 - 2025 **Google New Year Hackathon** 🥈2rd
 - 2025 **Google Asia-Pacific Solution Challenge** - Top 10
-
-<br/>
 
 ## 💼 Project Experience
 
