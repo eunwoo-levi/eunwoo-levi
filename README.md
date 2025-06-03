@@ -33,6 +33,9 @@
 
 ***
 
+## 🛠️ Tech Stacks
+TypeScript, React, Next.js, Zustand, React Query, TailwilndCSS, Emotion, MongoDB, Stroybook, Jest, Vitest, Cypress, RTL, Github-Actions, AWS S3, AWS CloudFront, AWS EC2
+
 
 ## 🌟 Extracurricular Activities
 
@@ -67,7 +70,7 @@
     
 - <a href="https://github.com/AI-Food-Analysis-Google-Challengethon" target="_blank">AI Dietary Management System</a> - **Google Vision ChallengeThon**, 2024/11
     
-- <a href="https://github.com/debate-timer/debate-timer-fe" target="_blank">Timer Service for Debate Timekeeping, 2024/12 - 2025/03
+- <a href="https://github.com/debate-timer/debate-timer-fe" target="_blank">Timer Service for Debate Timekeeping</a>, 2024/12 - 2025/03
     
 - <a href="https://drive.google.com/file/d/1lJTyVYMgg1W0HQbOAtVb8eMCiaIqxrwT/view" target="_blank">AI Real-time Patient Monitoring Service</a> - 2025 **Google New Year Hackathon**, 2025/01
     
