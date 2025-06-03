@@ -34,7 +34,7 @@
 ***
 
 
-<h3>🌟 Extracurricular Activities</h3>
+## 🌟 Extracurricular Activities
 
 - 🎖️ Served as a Sergeant in Korean Augmentation To the United States Army ( KATUSA ), USAG Yongsan-Casey  <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/kr.png" alt="Korea" title="Korea"> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png" alt="United States" title="United States"> , 2021 - 2023
 - Google Developers Group - FrontEnd , 2024/09 - ongoing
@@ -44,21 +44,21 @@
 
 <br/>
 
-<h3>📌 Contribution</h3>
+## 📌 Contribution
 
 - the Official [ReactJS](https://react.dev) Documentation - <a href="https://github.com/reactjs/ko.react.dev/pull/1194#event-17655978562">useActionState</a>, <a href="https://github.com/reactjs/ko.react.dev/pull/1196"> (+2)</a>, <a href="https://github.com/reactjs/ko.react.dev/pull/1197">preinit</a>, <a href="https://github.com/reactjs/ko.react.dev/pull/1198">preinitModule</a>, <a href="https://github.com/reactjs/ko.react.dev/pull/1202">useCallback</a>
 - Toss, [Frontend Fundamental](https://frontend-fundamentals.com/bundling) - <a href="https://github.com/toss/frontend-fundamentals/pull/267#event-17736971625">Rollup</a>
 
 <br/>
 
-<h3>🏆 Awards</h3>
+## 🏆 Awards
 
 - 2024 Daehyeong Region Collegiate SW Hackathon 🥉
 - 2025 Google New Year Hackathon 🥈2rd
 
 <br/>
 
-<h3>💼 Project Experience</h3>
+## 💼 Project Experience
 
 - <a href="https://github.com/Injury-law-assist" target="_blank">AI Industrial Accident Chatbot</a> - 2024 Employment and Labor Public Data Utilization Competition , 2024/07 - 2024/08
   
