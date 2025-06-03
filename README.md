@@ -56,7 +56,7 @@
 
 - 2024 **Daehyeong Region Collegiate SW Hackathon** 🥉
 - 2025 **Google New Year Hackathon** 🥈2rd
-- 2025 **Google Asia-Pacific Solution Challenge** - Top 10
+- 2025 **Google Asia-Pacific Solution Challenge** - 🏆 Top 10
 
 ## 💼 Project Experience
 
