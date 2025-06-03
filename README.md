@@ -60,51 +60,33 @@
 <h3>💼 Project Experience</h3>
 
 - <a href="https://github.com/Injury-law-assist" target="_blank">AI Industrial Accident Chatbot</a> - 2024 Employment and Labor Public Data Utilization Competition
-  - FE:2, BE:2
-  - Tech Stack: Next.js , Tailwind
   - 2024/07 - 2024/08
   
 - <a href="https://github.com/AI-Recycling-Service-Ecobuddy/FullStack" target="_blank">AI Recycling Web Application </a> - Daegu Environment Government Collaboration
-  - FullStack
-  - Tech Stack: Next.js , Tailwind , Zustand , MongoDB
   - 2024/07 - 2024/11
     
 - <a href="https://eunwoo-levi.blog" target="_blank">Personal Portfolio & Tech Blogs with Next.js</a>
-  - Tech Stack: Next.js , Tailwind
   - 2024/08
     
 - <a href="https://github.com/commercial-game-service/Frontend" target="_blank">Daegu Commercial District Blue Marble Game Service</a> - 2024 Daehyeong Region Collegiate SW Hackathon 
-  - FE:1, BE:2
-  - Tech Stack: Next.js , Tailwind , Zustand
   - 2024/09 - 2024/09
     
 - <a href="https://github.com/eunwoo-levi/architect-web" target="_blank">Architect Web Application</a> - 외주 개발
-  - Tech Stack: Next.js , Tailwind
   - 2024/09 - 2024/11
     
 - <a href="https://github.com/AI-Food-Analysis-Google-Challengethon" target="_blank">AI Dietary Management System</a> - Google Vision ChallengeThon
-  - FE:2, BE:2, Designer:1
-  - Tech Stack: Next.js , Tailwind , Zustand
   - 2024/11
     
 - <a href="https://github.com/debate-timer/debate-timer-fe" target="_blank">Timer Service for Debate Timekeeping
-  - FE:3, BE:3, Designer:1
-  - Tech Stack: React , Vite, Typescript, Tailwind , Storybook, Vitest
   - 2024/12 - 2025/03
     
 - <a href="https://drive.google.com/file/d/1lJTyVYMgg1W0HQbOAtVb8eMCiaIqxrwT/view" target="_blank">AI Real-time Patient Monitoring Service</a> - Google New Year Hackathon
-  - FE:2, BE:2, AI:1
-  - Tech Stack: Next.js , Google Cloud API, MongoDB, Typescript, Tailwind
   - 2025/01
     
 - <a href="https://github.com/GDG-on-Campus-KNU/4th-SC-Team-5-FE" target="_blank">VitalTrip — Google AI travel-ready emergency response service</a>
-  - FE:2, BE:2
-  - Tech Stack: Next.js , Google Cloud API, Typescript, Tailwind 
   - 2025/05
     
 - <a href="https://crew-wiki.site/wiki/%EB%8C%80%EB%AC%B8" target="_blank">CrewWiki - Woowacourse Wikipedia Community Service</a>
-  - FE:5, BE:6
-  - Tech Stack: Next.js, Tailwind, Typescript, AWS EC2, S3, CloudFront
   - 2025/05 ~ ongoing
 
 <br/>
