@@ -34,7 +34,9 @@
 ***
 
 ## 🛠️ Tech Stacks
-TypeScript, React, Next.js, Zustand, React Query, TailwilndCSS, Emotion, MongoDB, Stroybook, Jest, Vitest, Cypress, RTL, Github-Actions, AWS S3, AWS CloudFront, AWS EC2
+- TypeScript, React, Next.js, Zustand, React Query, TailwilndCSS, Emotion, MongoDB
+- Stroybook, Jest, Vitest, Cypress, RTL
+- Github-Actions, AWS S3, AWS CloudFront, AWS EC2
 
 
 ## 🌟 Extracurricular Activities
