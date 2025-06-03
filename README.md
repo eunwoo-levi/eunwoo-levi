@@ -76,7 +76,7 @@
     
 - <a href="https://drive.google.com/file/d/1lJTyVYMgg1W0HQbOAtVb8eMCiaIqxrwT/view" target="_blank">AI Real-time Patient Monitoring Service</a> - Google New Year Hackathon, 2025/01
     
-- <a href="https://github.com/GDG-on-Campus-KNU/4th-SC-Team-5-FE" target="_blank">VitalTrip — Google AI travel-ready emergency response service</a>, 2025/05
+- <a href="https://github.com/GDG-on-Campus-KNU/4th-SC-Team-5-FE" target="_blank">VitalTrip — Google AI travel-ready emergency response service</a> - 2025 Google Asia-Pacific Solution Challenge, 2025/05
     
 - <a href="https://crew-wiki.site/wiki/%EB%8C%80%EB%AC%B8" target="_blank">CrewWiki - Woowacourse Wikipedia Community Service</a>, 2025/05 ~ ongoing
 
