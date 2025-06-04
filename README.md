@@ -34,7 +34,8 @@
 ***
 
 # 🛠️ Tech Stacks
-- TypeScript, React, Next.js, Zustand, React Query, TailwilndCSS, Emotion, MongoDB
+- TypeScript, React, Next.js, Zustand, React Query, , MongoDB
+- TailwilndCSS, Emotion
 - Stroybook, Jest, Vitest, Cypress, RTL
 - Github-Actions, AWS S3, AWS CloudFront, AWS EC2
 
