@@ -1,4 +1,4 @@
-## 함께 일하고 싶은 개발자
+## 함께 일하고 싶은 프론트엔드 개발자
 
 <div align="center">
   <div>🌍 Fluent in English, enabling effective collaboration on international projects 🌍 </div> 
