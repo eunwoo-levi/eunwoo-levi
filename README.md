@@ -47,7 +47,7 @@
 - **Google Developers Group** - FrontEnd , `2024/09 - ongoing`
 - AI Melaka Co., Ltd. **Internship** - FrontEnd & PM , `2024/12 - 2025/2`
 - WoowaCourse 7th FE - **Woowa Bros.** , `2025/02 - ongoing`
-- 2025 **Google Asia-Pacific Solution Challenge** - Top 10 , `2025/05`
+- 2025 **Google Asia-Pacific Solution Challenge** - Top 10 finalists , `2025/05`
 
 <br/>
 
@@ -55,7 +55,7 @@
 
 - 2024 **Daehyeong Region Collegiate SW Hackathon** 🥉
 - 2025 **Google New Year Hackathon** 🥈2rd
-- 2025 **Google Asia-Pacific Solution Challenge** - 🏆 Top 10
+- 2025 **Google Asia-Pacific Solution Challenge** - 🏆 Top 10 finalists
 
 <br/>
 
