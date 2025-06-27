@@ -74,7 +74,7 @@
     
 - <a href="https://eunwoo-levi.blog" target="_blank">Personal Portfolio & Tech Blogs with Next.js</a> , `2024/08`
     
-- <a href="https://github.com/commercial-game-service/Frontend" target="_blank">Daegu Commercial District Blue Marble Game Service</a> - 2024 **Daehyeong Region Collegiate SW Hackathon** , `2024/09 - 2024/09`
+- <a href="https://github.com/commercial-game-service/Frontend" target="_blank">Daegu Commercial District Blue Marble Game Service</a> - 2024 **Daegyeong Region Collegiate SW Hackathon** , `2024/09 - 2024/09`
     
 - <a href="https://github.com/eunwoo-levi/architect-web" target="_blank">Architect Web Application</a> - 외주, `2024/09 - 2024/11`
     
