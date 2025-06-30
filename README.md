@@ -16,7 +16,7 @@
 
 > **Google Developers Group** - FrontEnd  &nbsp;&nbsp; ( **Top 10 Finalist** in the **2025 Google Asia-Pacific Solution Challenge** )
 
-> **WoowaCourse** 7th FE (Woowa Bros.)
+> **WoowaCourse** 7th FrontEnd (Woowa Bros.)
 
 ***
 
