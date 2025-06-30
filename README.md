@@ -14,7 +14,7 @@
 
 > Served in **Korean Augmentation To the United States Army** ( **KATUSA** )
 
-> **Google Developers Group** 4th FE
+> **Google Developers Group** 4th FrontEnd  &nbsp;&nbsp; (**Top 10 finalist** in the **2025 Google Asia-Pacific Solution Challenge**)
 
 > **WoowaCourse** 7th FE (Woowa Bros.)
 
