@@ -47,7 +47,8 @@
 - **Google Developers Group** - FrontEnd , `2024/09 - ongoing`
 - AI Melaka Co., Ltd. **Internship** - FrontEnd & PM , `2024/12 - 2025/2`
 - WoowaCourse 7th FE - **Woowa Bros.** , `2025/02 - ongoing`
-- Selected as a **Top 10 Finalist** in the **2025 Google Asia-Pacific Solution Challenge** and invited to demo a Google AI-powered service at **ADB’s Asia Pacific Digital Transformation Forum 2025** in Manila, Philippines `2025/05 - 2025/06`
+- Selected as a **Top 10 Finalist** in the **2025 Google Asia-Pacific Solution Challenge**
+  - Presented a live demo at ADB’s Asia-Pacific Digital Transformation Forum 2025 in Manila, Philippines, `2025/05 - 2025/06`
 
 <br/>
 
