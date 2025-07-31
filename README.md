@@ -1,5 +1,9 @@
 ## 함께 일하고 싶은 글로벌 개발자
 
+
+![](https://github-profile-trophy.vercel.app/?username=eunwoo-levi&theme=darkhub&column=5&row=2&no-bg=true&no-frame=true)
+
+
 <div align="center">
   <div>🌍 Fluent in English, enabling effective collaboration on international projects 🌍 </div> 
 </div>
