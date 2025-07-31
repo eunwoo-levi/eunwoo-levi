@@ -79,13 +79,13 @@
     
 - <a href="https://github.com/eunwoo-levi/architect-web" target="_blank">Architect Web Application</a> - 외주, `2024/09 - 2024/11`
     
-- <a href="https://github.com/AI-Food-Analysis-Google-Challengethon" target="_blank">AI Dietary Management System</a> - **Google Vision ChallengeThon**, `2024/11`
+- <a href="https://github.com/AI-Food-Analysis-Google-Challengethon" target="_blank">Google AI Dietary Management System</a> - **Google Vision ChallengeThon**, `2024/11`
     
 - <a href="https://github.com/debate-timer/debate-timer-fe" target="_blank">Timer Service for Debate Timekeeping</a>, `2024/12 - 2025/03`
     
-- <a href="https://drive.google.com/file/d/1lJTyVYMgg1W0HQbOAtVb8eMCiaIqxrwT/view" target="_blank">AI Real-time Patient Monitoring Service</a> - 2025 **Google New Year Hackathon**, `2025/01`
+- <a href="https://drive.google.com/file/d/1lJTyVYMgg1W0HQbOAtVb8eMCiaIqxrwT/view" target="_blank">Google AI Real-time Patient Monitoring Service</a> - 2025 **Google New Year Hackathon**, `2025/01`
     
-- <a href="https://github.com/GDG-on-Campus-KNU/4th-SC-Team-5-FE" target="_blank">VitalTrip — Google AI travel-ready emergency response service</a> - 2025 **Google Asia-Pacific Solution Challenge, Top 10 Finalists**, `2025/04 - ongoing (refactoring)`
+- <a href="https://github.com/GDG-on-Campus-KNU/4th-SC-Team-5-FE" target="_blank">Google AI travel-ready emergency response service - VitalTrip</a> - 2025 **Google Asia-Pacific Solution Challenge, Top 10 Finalists**, `2025/04 - ongoing (refactoring)`
     
 - <a href="https://github.com/mosu-dev/mosu-client" target="_blank">Nationwide Mock Exam Registration and Management Platform</a>, `2025/06 ~ ongoing`
 
