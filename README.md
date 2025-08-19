@@ -87,7 +87,7 @@
     
 - <a href="https://github.com/GDG-on-Campus-KNU/4th-SC-Team-5-FE" target="_blank">Google AI travel-ready emergency response service - VitalTrip</a> - 2025 **Google Asia-Pacific Solution Challenge, Top 10 Finalists**, `2025/04 - ongoing (refactoring)`
     
-- <a href="https://github.com/mosu-dev/mosu-client" target="_blank">Nationwide Mock Exam Registration and Management Platform</a>, `2025/06 ~ ongoing`
+- <a href="https://github.com/mosu-dev/mosu-client" target="_blank">Nationwide Mock Exam Registration and Management Platform</a>, `2025/06 ~ 2025/08`
 
 - <a href="https://github.com/woowacourse-teams/2025-moment" target="_blank">Emotion-Centered Social Networking Platform</a>, `2025/07 ~ ongoing`
 
