@@ -21,13 +21,13 @@
 ***
 
 <div align="center">
-  <a href="https://www.eunwoo-levi.blog" target="_blank">
+  <a href="https://www.eunwoo-levi.com" target="_blank">
     <img src="https://img.shields.io/badge/Personal%20Next.js%20Tech%20Blog-20232A?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Tech Blog" />
   </a>
 
   <br/>
   
-  <a href="https://www.eunwoo-levi.blog">https://www.eunwoo-levi.blog</a>
+  <a href="https://www.eunwoo-levi.com">https://www.eunwoo-levi.com</a>
 
 </div>
 
@@ -73,7 +73,7 @@
   
 - <a href="https://github.com/AI-Recycling-Service-Ecobuddy/FullStack" target="_blank">AI Recycling Web Application </a> - **Daegu Environment Government** Collaboration , `2024/07 - 2024/11`
     
-- <a href="https://eunwoo-levi.blog" target="_blank">Personal Portfolio & Tech Blogs with Next.js</a> , `2024/08`
+- <a href="https://eunwoo-levi.com" target="_blank">Personal Portfolio & Tech Blogs with Next.js</a> , `2024/08`
     
 - <a href="https://github.com/commercial-game-service/Frontend" target="_blank">Daegu Commercial District Blue Marble Game Service</a> - 2024 **Daegyeong Region Collegiate SW Hackathon** , `2024/09 - 2024/09`
     
