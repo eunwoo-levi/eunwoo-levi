@@ -34,10 +34,11 @@
 ***
 
 # 🛠️ Tech Stacks
-- TypeScript, React, Next.js, Zustand, React Query
+- TypeScript, React, Next.js, Zustand, Tanstack Query
+- Webpack, Vite
 - TailwilndCSS, Emotion
 - Stroybook, Jest, Vitest, Cypress, RTL, MSW
-- Github-Actions, AWS S3, AWS CloudFront, AWS EC2
+- Github Actions, AWS S3, CloudFront, Lambda, EC2
 
 <br/>
 
