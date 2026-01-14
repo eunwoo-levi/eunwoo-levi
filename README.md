@@ -34,7 +34,7 @@
 ***
 
 # 🛠️ Tech Stacks
-- TypeScript, React, Next.js, Zustand, Tanstack Query
+- React, Next.js, TypeScript, Zustand, Tanstack Query
 - Webpack, Vite
 - TailwilndCSS, Emotion
 - Stroybook, Jest, Vitest, Cypress, RTL, MSW
