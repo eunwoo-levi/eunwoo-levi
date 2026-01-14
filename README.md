@@ -1,9 +1,5 @@
 ## 함께 일하고 싶은 글로벌 개발자
 
-<div align="center">
-  <div>🌍 Fluent in English, enabling effective collaboration on international projects 🌍 </div> 
-</div>
-
 # Introduction
 
 > 2001.01.01
