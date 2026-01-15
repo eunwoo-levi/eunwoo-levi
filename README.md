@@ -64,9 +64,6 @@
 
 - <a href="https://github.com/AI-Recycling-Service-Ecobuddy/FullStack" target="_blank">AI Recycling Web Application </a> - **Daegu Environment Government** Collaboration , `2024/07 - 2024/11`
 
-- <a href="https://github.com/Injury-law-assist" target="_blank">AI Industrial Accident Chatbot</a> - 2024 **Employment and Labor Public Data Utilization Competition** , `2024/07 - 2024/08`
-  
-    
     
     
     
