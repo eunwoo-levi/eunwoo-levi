@@ -1,5 +1,3 @@
-## 함께 일하고 싶은 글로벌 개발자
-
 # Introduction
 
 > 2001.01.01
@@ -26,17 +24,6 @@
   <a href="https://www.eunwoo-levi.com">https://www.eunwoo-levi.com</a>
 
 </div>
-
-***
-
-# 🛠️ Tech Stacks
-- React, Next.js, TypeScript, Zustand, Tanstack Query
-- Webpack, Vite
-- TailwilndCSS, Emotion
-- Stroybook, Jest, Vitest, Cypress, RTL, MSW
-- Github Actions, AWS S3, CloudFront, Lambda, EC2
-
-<br/>
 
 # 🌟 Extracurricular Activities
 - Selected as a **Top 10 Finalist** in the **2025 Google Asia-Pacific Solution Challenge**
