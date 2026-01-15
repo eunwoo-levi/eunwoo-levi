@@ -1,19 +1,3 @@
-# Introduction
-
-> 2001.01.01
-
-> **Frontend Engineer**
-
-> Bachelor of **Computer Science** ( Double Major: Electronic Engineering )
-
-> **Google Developers Group** - FrontEnd  &nbsp;&nbsp; ( **Top 10 Finalist** in the **2025 Google APAC Solution Challenge** )
-
-> **WoowaCourse** 7th FrontEnd (Woowa Bros.)
-
-> Served in **Korean Augmentation To the United States Army** ( **KATUSA** )
-
-***
-
 <div align="center">
   <a href="https://www.eunwoo-levi.com" target="_blank">
     <img src="https://img.shields.io/badge/Personal%20Next.js%20Tech%20Blog-20232A?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Tech Blog" />
@@ -25,24 +9,30 @@
 
 </div>
 
-# 🌟 Extracurricular Activities
+## 🌟 Extracurricular Activities
 - Selected as a **Top 10 Finalist** in the **2025 Google Asia-Pacific Solution Challenge**
+- 2025 **Google New Year Hackathon** 🥈2rd
 - Presented a live demo at **ADB’s Asia-Pacific Digital Transformation Forum 2025** in Manila, Philippines, `2025/05 - 2025/06`
 - WoowaCourse 7th FE - **Woowa Bros.** , `2025/02 - 2025/11`
 - **Google Developers Group** - FrontEnd , `2024/09 - ongoing`
 - AI Melaka Co., Ltd. **Internship** - FrontEnd & PM , `2024/12 - 2025/2`
 - 🎖️ Served as a Sergeant in **Korean Augmentation To the United States Army** ( **KATUSA** ), USAG Yongsan-Casey  <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/kr.png" alt="Korea" title="Korea"> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png" alt="United States" title="United States"> , `2021-2023`
 
-<br/>
+  <br/>
 
-# 🏆 Awards
-- 2025 **Google Asia-Pacific Solution Challenge** - 🏆 Top 10 Finalists
-- 2025 **Google New Year Hackathon** 🥈2rd
-- 2024 **Daegyeong Region Collegiate SW Hackathon** 🥉
+<details>
+<summary id="datail"><strong>📚 Contribution Details</strong></summary>
 
-<br/>
+- [reactjs/ko.react.dev](https://github.com/reactjs/ko.react.dev/pulls?q=is%3Apr+author%3Aeunwoo-levi+is%3Aclosed)
+- [toss/frontend-fundamentals](https://github.com/toss/frontend-fundamentals/pulls?q=author%3Aeunwoo-levi+is%3Aclosed)
 
-# 💼 Project Experience
+</details>
+
+  <br/>
+
+
+
+## 💼 Project Experience
 
 - <a href="https://github.com/woowacourse-teams/2025-moment" target="_blank">Emotion-Centered Social Networking Platform</a>, `2025/07 ~ 2025/12`
 
