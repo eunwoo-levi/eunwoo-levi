@@ -26,6 +26,9 @@
 - [reactjs/ko.react.dev](https://github.com/reactjs/ko.react.dev/pulls?q=is%3Apr+author%3Aeunwoo-levi+is%3Aclosed)
 - [toss/frontend-fundamentals](https://github.com/toss/frontend-fundamentals/pulls?q=author%3Aeunwoo-levi+is%3Aclosed)
 - [toss/es-toolkit](https://github.com/toss/es-toolkit/pulls?q=is%3Apr+author%3Aeunwoo-levi+is%3Aclosed)
+- [ts-pattern](https://github.com/gvergnaud/ts-pattern/pulls/eunwoo-levi)
+- [toss/overlay-kit](https://github.com/toss/overlay-kit/pulls/eunwoo-levi)
+
 </details>
 
   <br/>
