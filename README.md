@@ -1,3 +1,5 @@
+### [📚 리바이 기술 블로그](https://www.eunwoo-levi.com/)
+
 ## Experience
 - Selected as a **Top 10 Finalist** in the **2025 Google Asia-Pacific Solution Challenge**
 - 2025 **Google New Year Hackathon** 2rd
