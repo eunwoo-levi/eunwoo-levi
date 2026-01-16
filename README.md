@@ -1,17 +1,6 @@
-<div align="center">
-  <a href="https://www.eunwoo-levi.com" target="_blank">
-    <img src="https://img.shields.io/badge/Personal%20Next.js%20Tech%20Blog-20232A?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Tech Blog" />
-  </a>
-
-  <br/>
-  
-  <a href="https://www.eunwoo-levi.com">https://www.eunwoo-levi.com</a>
-
-</div>
-
-## 🌟 Extracurricular Activities
+## Experience
 - Selected as a **Top 10 Finalist** in the **2025 Google Asia-Pacific Solution Challenge**
-- 2025 **Google New Year Hackathon** 🥈2rd
+- 2025 **Google New Year Hackathon** 2rd
 - Presented a live demo at **ADB’s Asia-Pacific Digital Transformation Forum 2025** in Manila, Philippines, `2025/05 - 2025/06`
 - WoowaCourse 7th FE - **Woowa Bros.** , `2025/02 - 2025/11`
 - **Google Developers Group** - FrontEnd , `2024/09 - ongoing`
