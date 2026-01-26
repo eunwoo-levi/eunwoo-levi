@@ -1,9 +1,9 @@
 ### [📚 리바이 기술 블로그](https://www.eunwoo-levi.com/)
 
 ## Experience
-- Selected as a **Top 10 Finalist** in the **2025 Google Asia-Pacific Solution Challenge**
-- 2025 **Google New Year Hackathon** 2rd
-- Presented a live demo at **ADB’s Asia-Pacific Digital Transformation Forum 2025** in Manila, Philippines, `2025/05 - 2025/06`
+- 2025 **Google Asia-Pacific Solution Challenge** (전 세계 대상 글로벌 해커톤) Top 10 Finalist
+- 2025 **Google Developer Group** New Year 전국 연합 Hackathon 2rd (최우수상)
+- **ADB Asia-Pacific Digital Transformation Forum** 2025 (Manila, Philippines) Live Demo presented
 - WoowaCourse 7th FE - **Woowa Bros.** , `2025/02 - 2025/11`
 - **Google Developers Group** - FrontEnd , `2024/09 - ongoing`
 - AI Melaka Co., Ltd. **Internship** - FrontEnd & PM , `2024/12 - 2025/2`
