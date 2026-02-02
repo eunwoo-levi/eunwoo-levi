@@ -5,9 +5,9 @@
 - 2025 **Google Developer Group** New Year 전국 연합 Hackathon 2rd (최우수상)
 - **ADB Asia-Pacific Digital Transformation Forum** 2025 (Manila, Philippines) Live Demo presented
 - WoowaCourse 7th FE - **Woowa Bros.** , `2025/02 - 2025/11`
-- **Google Developers Group** - FrontEnd , `2024/09 - ongoing`
+- **Google Developers Groups** , `2024/09 - ongoing`
 - AI Melaka FrontEnd **Intern** , `2024/12 - 2025/2`
-- Served as a Sergeant in **Korean Augmentation To the United States Army** ( **KATUSA** ), USAG Yongsan-Casey  <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/kr.png" alt="Korea" title="Korea"> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png" alt="United States" title="United States"> , `2021-2023`
+- Served in **Korean Augmentation To the United States Army** ( **KATUSA** ), USAG Yongsan-Casey  <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/kr.png" alt="Korea" title="Korea"> <img src="https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png" alt="United States" title="United States"> , `2021-2023`
 
   <br/>
 
