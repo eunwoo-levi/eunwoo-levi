@@ -1,7 +1,7 @@
 ### [📚 리바이 기술 블로그](https://www.eunwoo-levi.com/)
 
 ## Experience
-- 우아한형제들(Woowa Bros.) 우아한테크코스 7기, `2025/02 - 2025/11`
+- 우아한형제들(Woowa Bros.) 우아한테크코스 FE 7기, `2025/02 - 2025/11`
 - 2025 **Google Asia-Pacific Solution Challenge** 전 세계 글로벌 해커톤 Top 10 Finalist
 - 2025 **Google Developer Group** New Year 전국 연합 Hackathon 2rd (최우수상)
 - **ADB Asia-Pacific Digital Transformation Forum** 2025 (Manila, Philippines) Live Demo presented
