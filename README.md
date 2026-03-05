@@ -23,10 +23,6 @@
 
 </details>
 
-<br/>
-
-![eunwoo-levi's GitHub Stats](https://blakedrumm-github-readme-stats.vercel.app/api?username=eunwoo-levi&show_icons=true&include_all_commits=true&count_private=true&theme=vue-dark)
-
 
     
     
