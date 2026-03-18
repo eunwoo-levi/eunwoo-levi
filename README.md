@@ -2,8 +2,8 @@
 
 ## Experience
 - 우아한형제들(Woowa Bros.) 우아한테크코스 FE 7기, `2025/02 - 2025/11`
-- 2025 **Google Asia-Pacific Solution Challenge** 전 세계 글로벌 해커톤 Top 10 Finalist
-- 2025 **Google Developer Group** New Year 전국 연합 Hackathon 2rd (최우수상)
+- 2025 **Google Asia-Pacific Solution Challenge** Top 10 Finalist (전 세계 글로벌 해커톤)
+- 2025 **Google Developer Group** New Year Hackathon 2rd (전국 연합 해커톤 최우수상)
 - 2025 **ADB Asia-Pacific Digital Transformation Forum** 2025 (Manila, Philippines) Live Demo presented
 - Featured on the **Google Official Blog** and invited to **Google Cloud APAC YouTube** for a Google AI panel talk
 - **Google Developers Groups** , `2024/09 - ongoing`
