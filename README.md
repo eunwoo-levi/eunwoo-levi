@@ -2,7 +2,7 @@
 
 ## Experience
 - 우아한형제들(Woowa Bros.) 우아한테크코스 FE 7기, `2025/02 - 2025/11`
-- 2026 LLM-based, ASK Paper Competition, Korea Information Processing Society - 3rd (한국정보처리학회 ASK 논문 동상)
+- 2026 Research on LLM, ASK Paper Competition, Korea Information Processing Society - 3rd (한국정보처리학회 ASK 논문 동상)
 - 2025 **Google Asia-Pacific Solution Challenge** - Top 10 Finalist (전 세계 글로벌 해커톤)
 - 2025 **Google Developer Group** New Year Hackathon - 2rd (전국 연합 해커톤 최우수상)
 - 2025 **ADB Asia-Pacific Digital Transformation Forum** 2025 (Manila, Philippines) Live Demo presented
