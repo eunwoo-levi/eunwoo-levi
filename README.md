@@ -1,5 +1,3 @@
-### [📚 리바이 기술 블로그](https://www.eunwoo-levi.com/)
-
 ## Work Experience
 
 - **Talabat · Delivery Hero** — Full-Stack Engineer, `Sep 2026 – Present`
