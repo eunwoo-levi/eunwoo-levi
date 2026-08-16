@@ -2,7 +2,7 @@
 
 - **Talabat · Delivery Hero** — Full-Stack Engineer, `Sep 2026 – Present`
 - **Nudge Healthcare** — Frontend Engineer, `Jun 2026 – Aug 2026`
-- **AI Melaka** — Frontend Engineer Intern, `Dec 2024 – Feb 2025`
+- **AI Melaka** — Frontend Engineer, `Dec 2024 – Feb 2025`
 - **KATUSA · U.S. Army** — Korean Augmentation to the United States Army, USAG Yongsan-Casey, `2021 – 2023`
 
 
