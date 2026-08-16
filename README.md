@@ -1,17 +1,12 @@
 ### [📚 리바이 기술 블로그](https://www.eunwoo-levi.com/)
 
-## Experience
+## Work Experience
 
-- **Talabat, Delivery Hero** - Full-Stack Engineer , `September 2026 – Present`
-- **Nudge Healthcare** - Frontend Engineer , `June 2026 – August 2026`
-  
-- **Woowa Bros. — Woowacourse Frontend** , `Feb 2025 – Nov 2025`
+- **Talabat · Delivery Hero** — Full-Stack Engineer, `Sep 2026 – Present`
+- **Nudge Healthcare** — Frontend Engineer, `Jun 2026 – Aug 2026`
+- **AI Melaka** — Frontend Engineer Intern, `Dec 2024 – Feb 2025`
+- **KATUSA · U.S. Army** — Korean Augmentation to the United States Army, USAG Yongsan-Casey, `2021 – 2023`
 
-- **AI Melaka — Frontend Intern** , `Dec 2024 – Feb 2025`
-
-- **Google Developer Groups** , `Sep 2024 – July 2026`
-
-- **KATUSA — Korean Augmentation to the United States Army (Served at USAG Yongsan-Casey, Korea)** , `2021 – 2023` 
 
 ## Awards & Highlights
 
