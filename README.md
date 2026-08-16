@@ -2,11 +2,14 @@
 
 ## Experience
 
+- **Talabat, Delivery Hero** - Full-Stack Engineer , `September 2026 – Present`
+- **Nudge Healthcare** - Frontend Engineer , `June 2026 – August 2026`
+  
 - **Woowa Bros. — Woowacourse Frontend** , `Feb 2025 – Nov 2025`
 
 - **AI Melaka — Frontend Intern** , `Dec 2024 – Feb 2025`
 
-- **Google Developer Groups** , `Sep 2024 – Present`
+- **Google Developer Groups** , `Sep 2024 – July 2026`
 
 - **KATUSA — Korean Augmentation to the United States Army (Served at USAG Yongsan-Casey, Korea)** , `2021 – 2023` 
 
